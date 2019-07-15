@@ -10,9 +10,9 @@ If possible, provided some details about the needed.
 
 ### Files
 
-| name | type | description |  
+| file | type | description |  
 | :---: | :---: | :--- |  
-| fo | R function | an example function that sum two numbers |  
+| [functions.R](code/template/R/functions.R) | R functions | Includes the function `fo()`. An example function that simple sum two numbers |  
 
 ## Usage
 
