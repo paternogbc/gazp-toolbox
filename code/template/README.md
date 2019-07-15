@@ -14,6 +14,7 @@ If possible, provided some details about the needed.
 | :---: | :---: | :--- |  
 | [functions.R](code/template/R) | R functions | Includes the function `fo()`. An example function that simple sum two numbers |  
 
+
 ## Usage
 
 If possible, include some examples on how to use the code.
