@@ -84,3 +84,66 @@ tpl_genus <- function(...){
   out <- xml2::xml_text(xml2::xml_find_all(temp, "//ul[@id='nametree']//a"))
   return(out)
 }
+
+# function to check if a genus exist and get its species list from The
+# Plant List website.
+tpl_genus_search <- function(genus){
+  uur <- paste("http://www.theplantlist.org/tpl1.1/search?q=", genus, sep = "")
+  cli <- crul::HttpClient$new(uur)
+  temp <- cli$get()
+  temp$raise_for_status()
+  temp <- xml2::read_html(temp$parse("UTF-8"), encoding = "UTF-8")
+  all <- xml2::xml_text(xml2::xml_find_all(temp, "//table[@id='tbl-results']//a"))
+  
+  if (length(all) == 0) {
+    message("Genus not found on The Plant List Website")
+    out <- list(tpl_genus = paste(genus, "not found on The Plant List"),
+                species_list = NULL)
+  }
+  else {
+    all     <- all[seq(1, length(all), 2)]
+    genus   <- sapply(strsplit(all, split = " "),FUN = `[`, 1)
+    epithet <- sapply(strsplit(all, split = " "),FUN = `[`, 2)
+    genus_epithet <- paste(genus, epithet)
+    out <- list(tpl_genus = unique(genus),
+                species_list = genus_epithet)
+    return(out)
+  }
+}
+
+# Function to prepare higher taxonomy from a species list and find 
+# Genus that do not belong to the TPL list.
+higher_tax <- function(x) {
+  tax <- taxonlookup::lookup_table(
+    species_list = x,
+    by_species = TRUE,
+    missing_action = "NA"
+  )
+  tax <- 
+    tax %>%
+    dplyr::rename(original_genus    = genus) %>%
+    dplyr::mutate(original_binomial = x,
+           genus_on_tpl = !is.na(family) | !is.na(original_genus) | !is.na(order),) %>%
+    dplyr::select(original_binomial, original_genus,  dplyr::everything())
+  # get unmatched genus
+  genus_fail <- tax %>% 
+    dplyr::filter(is.na(family) | is.na(original_genus) | is.na(order)) %>%
+    dplyr::pull(original_genus)
+  
+  res <- list(
+    taxonomy_full  = tax,
+    taxonomy_clean = tax %>% dplyr::filter(genus_on_tpl == TRUE),
+    unmatched_genus = genus_fail
+  )
+  nn <- length(res$unmatched_genus)
+  no <- nrow(res$taxonomy_clean)
+  if (nn > 0) {
+    message(paste("There are", nn, "unmatched genus names!", "\n",
+                  "You should probably check these manually!"))
+    message(paste(res$unmatched_genus, "\n"))
+  } else {
+    message(paste(no, "species in the Taxonomic table"))
+  }
+  
+  return(res)
+}
