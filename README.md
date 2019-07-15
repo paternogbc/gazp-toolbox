@@ -8,26 +8,27 @@ A repository to store R code, scripts and data from the [__Global Arid Zone Proj
 
 ## Code folders
 
-| name | mantainer | type | description | 
+| name | maintainer | type | description | 
 | :---: | :---: | :--- | :--- |
-| [template](template) | You Name | describe type | describe what it does | 
-| [taxon_name_check](taxon_name_check) | Gustavo Paterno | R functions | A protocol with multiple functions to check and standradize taxon names |
+| [template](code/template) | You Name | describe type | describe what it does | 
+| [taxon_name_check](code/taxon_name_check) | Gustavo Paterno | R functions | A protocol with multiple functions to check and standardize taxon names |
 
 ### Adding a code folder
 
 * Include your data on the table above.
-* Try to follow the template files. If it is not R code, try to include a example of usage.
+* Try to follow the template files or add some details and documentation. If it
+is not R code, try to include an example of usage.
 
 *** 
 
-## Datasets
+## Data-sets
 
-| name | mantainer | type | description | 
+| name | maintainer | type | description | 
 | :---: | :---: | :--- | :--- |
-| dataset name | You Name | describe type | describe variables | 
+| data-set name | You Name | describe type | describe variables | 
 
 
-### Adding a dataset folder
+### Adding a data-set folder
 
 * Include your data on the table above.
 * to be developed....
