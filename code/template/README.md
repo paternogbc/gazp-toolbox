@@ -12,7 +12,7 @@ If possible, provided some details about the needed.
 
 | file | type | description |  
 | :---: | :---: | :--- |  
-| [functions.R](code/template/R) | R functions | Includes the function `fo()`. An example function that simple sum two numbers |  
+| [functions.R](R/functions.R) | R functions | Includes the function `fo()`. An example function that simple sum two numbers |  
 
 
 ## Usage
