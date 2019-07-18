@@ -26,6 +26,7 @@ is not R code, try to include an example of usage.
 | name | maintainer | type | description | 
 | :---: | :---: | :--- | :--- |
 | data-set name | You Name | describe type | describe variables | 
+| sid_kew_weights | Andrea Martorano | .csv | genus, species, subspecies, variant, 1000 seed weight | 
 
 
 ### Adding a data-set folder
