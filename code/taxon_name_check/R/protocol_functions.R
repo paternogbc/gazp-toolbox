@@ -102,9 +102,9 @@ morpho_check <- function(x, pattern = c("sp.", "spp.", "spp", "NA", " "),
   if (correct == TRUE) {
     x$corrected_epi <- x$original_epi
     x$corrected_binomial <- x$original_binomial
-    x[x$morphotype == "maybe", ]$corrected_epi <- label
-    x[x$morphotype == "maybe", ]$corrected_binomial <-
-      paste(x[x$morphotype == "maybe", ]$original_genus, label)
+    x[x$morphotype == "yes", ]$corrected_epi <- label
+    x[x$morphotype == "yes", ]$corrected_binomial <-
+      paste(x[x$morphotype == "yes", ]$original_genus, label)
   }
 
   out <- list(
