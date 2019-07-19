@@ -12,4 +12,8 @@ Species names and seed weights taken from the SID KEW database using the sid_kew
 
 | variable name | description |  
 | :---: | :--- |  
-| Genus | Genus name | Species | Species name | Subspecies | Subspecies name, if applicable | Variant | Variant name, if applicable | Seed Weight | 1000 seed weight, in grams    
+| Genus | Genus name |
+| Species | Species name |
+| Subspecies | Subspecies name, if applicable |
+| Variant | Variant name, if applicable |
+| Seed Weight | 1000 seed weight, in grams |  
