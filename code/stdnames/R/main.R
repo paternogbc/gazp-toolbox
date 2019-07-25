@@ -102,7 +102,7 @@ clean_tpl <- function(x, verbose = TRUE) {
   w_dup    <- xt[x$tpl_binomial %in% w_sp_dup, ]
   w_dup    <- w_dup[order(w_dup$tpl_binomial),]
   w_dup    <- w_dup[, c("id_names", "submitted_binomial", "tpl_binomial")]
-  n_dup    <- length(w_dup)
+  n_dup    <- length(w_sp_dup)
 
   ### add column for duplicated species
   xt$duplicated <- dup
