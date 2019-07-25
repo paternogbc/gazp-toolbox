@@ -1,14 +1,23 @@
-# Function to prepare higher taxonomy from a species list and find
-# Genus that do not belong to the TPL list.
-
-#' Title
+#' Build a higher taxonomic table from a species list.
 #'
-#' @param x A character vector with names to check.
+#' @param x A character vector with plant names.
 #'
-#' @return
-#' @export
+#' @return A data.frame with the following components:
+#' \itemize{
+#'   \item{\strong{binomial}} The original species name provided.
+#'   \item{\strong{genus}} The genus name.
+#'   \item{\strong{family}} The family name.
+#'   \item{\strong{order}} The order name.
+#'   \item{\strong{group}} The group name.
+#'   \item{\strong{on_tpl}} Logical. Is the genus name on TPL?.
+#'  }
 #'
 #' @examples
+#' library(stdnames)
+#' sp <- c("Mimosa tenuiflora", "Eucalyptus_lehmannii", "Yucca glauca")
+#' higher_tax(sp)
+#' @export
+#' 
 higher_tax <- function(x) {
   x <- suppressMessages(make_id(x))
   sp <- x$original_binomial
@@ -20,7 +29,7 @@ higher_tax <- function(x) {
 
   tax_out <-
     data.frame(
-      original_binomial = sp,
+      binomial = sp,
       genus  = tax$genus,
       family = tax$family,
       order  = tax$order,
@@ -176,6 +185,15 @@ clean_tpl <- function(x, verbose = TRUE) {
 #' that contains the plant species names that you iwsh to standardize.
 #' @param id_label A character with the label prefix (e.g. id_) to generate a
 #' unique identifier for the dataset.
+#' @param infra Logical. If TRUE (default), infraspecific epithets are used to
+#'  match taxon names in TPL.
+#' @param max.distance A number indicating the maximum distance allowed for a 
+#' match in agrep when performing corrections of spelling errors in specific
+#'  epithets. see \code{\link{agrep}}.
+#' @param diffchar A number indicating the maximum difference between the number
+#'  of characters in corrected and original taxon names.
+#' @param version A character vector indicating whether to connect to the newest
+#'  version of TPL (1.1) or to the older one (1.0). Defaults to "1.1".
 #'
 #' @return A list with the following components:
 #' \itemize{
@@ -200,7 +218,11 @@ clean_tpl <- function(x, verbose = TRUE) {
 #'   identifiers \code{id_names}.
 #'   \item{\strong{tpl_warnings}} Any warning during TPL fuzzy matching.
 #' }
-#' @seealso \code{\link{TPL}}
+#' @seealso \code{\link{TPL}} and \code{\link{TPLck}}.
+#' 
+#' @details This function uses the functions: \code{\link{TPL}} and
+#'  \code{\link{TPLck}} from the R package \code{Taxonstand} to perform 
+#'  name standardization following The Plant List database.
 #' @export
 #'
 #' @examples
@@ -251,7 +273,9 @@ clean_tpl <- function(x, verbose = TRUE) {
 #'out$source_data
 #'}
 #'
-std_names <- function(x, species_column, id_label = "gazp"){
+std_names <- function(x, species_column, id_label = "ID_", 
+                      infra = FALSE, max.distance = 1, diffchar = 2,
+                      version = "1.1"){
   # checks---
   if (!is.data.frame(x)) {
     stop("x must be a data.frame")
@@ -288,7 +312,7 @@ std_names <- function(x, species_column, id_label = "gazp"){
   s_df$id_names <- spn_id$id_names
 
   # Run fuzz muchting with TPL
-  sp.tpl       <- Taxonstand::TPL(splist = spn, infra = F)
+  sp.tpl       <- Taxonstand::TPL(splist = spn, infra = infra)
   tpl_warnings <- warnings()
 
   # add id names to tpl output

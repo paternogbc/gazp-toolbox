@@ -2,13 +2,29 @@
 % Please edit documentation in R/main.R
 \name{higher_tax}
 \alias{higher_tax}
-\title{Title}
+\title{Build a higher taxonomic table from a species list.}
 \usage{
 higher_tax(x)
 }
 \arguments{
-\item{x}{A character vector with names to check.}
+\item{x}{A character vector with plant names.}
+}
+\value{
+A list with the following components:
+\itemize{
+\item{\strong{binomial}} The original species name provided.
+\item{\strong{genus}} The genus name.
+\item{\strong{family}} The family name.
+\item{\strong{order}} The order name.
+\item{\strong{group}} The group name.
+\item{\strong{on_tpl}} Logical. Is the genus name on TPL?.
+}
 }
 \description{
-Title
+Build a higher taxonomic table from a species list.
+}
+\examples{
+library(stdnames)
+sp <- c("Mimosa tenuiflora", "Eucalyptus_lehmannii", "Yucca glauca")
+higher_tax(sp)
 }

@@ -4,7 +4,8 @@
 \alias{std_names}
 \title{Standardize plant names}
 \usage{
-std_names(x, species_column, id_label = "gazp")
+std_names(x, species_column, id_label = "ID_", infra = FALSE,
+  max.distance = 1, diffchar = 2, version = "1.1")
 }
 \arguments{
 \item{x}{A data.frame with your data and one column with plant species names
@@ -15,6 +16,19 @@ that contains the plant species names that you iwsh to standardize.}
 
 \item{id_label}{A character with the label prefix (e.g. id_) to generate a
 unique identifier for the dataset.}
+
+\item{infra}{Logical. If TRUE (default), infraspecific epithets are used to
+match taxon names in TPL.}
+
+\item{max.distance}{A number indicating the maximum distance allowed for a
+match in agrep when performing corrections of spelling errors in specific
+epithets. see \code{\link{agrep}}.}
+
+\item{diffchar}{A number indicating the maximum difference between the number
+of characters in corrected and original taxon names.}
+
+\item{version}{A character vector indicating whether to connect to the newest
+version of TPL (1.1) or to the older one (1.0). Defaults to "1.1".}
 }
 \value{
 A list with the following components:
@@ -44,6 +58,11 @@ identifiers \code{id_names}.
 \description{
 A reproducible protocol to standardize plant names from a comparative
 dataset.
+}
+\details{
+This function uses the functions: \code{\link{TPL}} and
+\code{\link{TPLck}} from the R package \code{Taxonstand} to perform
+name standardization following The Plant List database.
 }
 \examples{
 \dontrun{
@@ -95,5 +114,5 @@ out$source_data
 
 }
 \seealso{
-\code{\link{TPL}}
+\code{\link{TPL}} and \code{\link{TPLck}}.
 }
