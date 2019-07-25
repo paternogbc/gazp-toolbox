@@ -1,0 +1,560 @@
+sp_tpl,tpl_authority,order,family,genus,Lifeform,Seed.mass,Precip_Avg,Precip_SD,support,woodiness,nfixing,dormancy,lifeform_baskin,biome,table,rank,duplicated_sp,dormancy_g3,dormancy_g2
+Acacia acanthoclada,F.Muell.,Fabales,Fabaceae,Acacia,Woody,4.0484,477,117.8294574,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia acinacea,Lindl.,Fabales,Fabaceae,Acacia,Woody,10.7,1055.5,346.3178295,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia acuminata,Benth.,Fabales,Fabaceae,Acacia,Woody,15.2,644.5,187.0155039,F,W,Yes,PY,tree,matorral,1001,6208,no,PY,PY
+Acacia ancistrocarpa,Maiden & Blakeley,Fabales,Fabaceae,Acacia,Woody,36.67,815.5,244.379845,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia binata,Maslin,Fabales,Fabaceae,Acacia,Woody,NA,507.5,60.65891473,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia brachybotrya,Benth.,Fabales,Fabaceae,Acacia,Woody,21.42,536.5,144.7674419,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia cochlearis,(Labill.) Wendl.,Fabales,Fabaceae,Acacia,Woody,7.1596,691.5,205.2325581,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia consobrina,R.S.Cowan & Maslin,Fabales,Fabaceae,Acacia,Woody,NA,489,77.13178295,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia constricta,A.Gray,Fabales,Fabaceae,Acacia,Woody,13,1458.5,506.7829457,NA,NA,NA,PY,tree,"hot semidesert, desert",927,5604,no,PY,PY
+Acacia cupularis,Domin,Fabales,Fabaceae,Acacia,Woody,16.2273,746,217.8294574,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia cyclops,G.Don,Fabales,Fabaceae,Acacia,Woody,30.3,643,242.6356589,F,W,Yes,PY,shrub,matorral,1002,6403,no,PY,PY
+Acacia declinata,R.S.Cowan & Maslin,Fabales,Fabaceae,Acacia,Woody,2.1964,447,84.10852713,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia ehrenbergiana,Hayne,Fabales,Fabaceae,Acacia,Woody,21.7217,455,175.9689922,F,NA,Yes,ND,tree,"tropical savannas (dry woodlands,grasslands)",923,4712,yes,ND,ND
+Acacia gerrardii,Benth.,Fabales,Fabaceae,Acacia,Woody,80.57,804.5,295.1550388,F,W,Yes,PY,tree,"tropical savannas (dry woodlands,grasslands)",923,4718,no,PY,PY
+Acacia glaucoptera,Benth.,Fabales,Fabaceae,Acacia,Woody,3.9158,597.5,129.2635659,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia gonophylla,Benth.,Fabales,Fabaceae,Acacia,Woody,7.6918,466,77.51937984,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia greggii,A.Gray,Fabales,Fabaceae,Acacia,Woody,101.2,473.5,162.5968992,F,W,No,PY,tree,"hot semidesert, desert",927,5608,no,PY,PY
+Acacia harveyi,Benth.,Fabales,Fabaceae,Acacia,Woody,12.02,630.5,180.4263566,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia hilliana,Maiden,Fabales,Fabaceae,Acacia,Woody,6.0658,619,158.5271318,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia inaequilatera,Domin,Fabales,Fabaceae,Acacia,Woody,41.9844,427,91.86046512,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia lasiocalyx,C.R.P.Andrews,Fabales,Fabaceae,Acacia,Woody,5.02,653,160.0775194,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia ligulata,Benth.,Fabales,Fabaceae,Acacia,Woody,27.6,777.5,251.744186,F,W,Yes,PY,shrub,"tropical savannas (dry woodlands,grasslands)",924,5117,no,PY,PY
+Acacia maxwellii,Maiden & Blakeley,Fabales,Fabaceae,Acacia,Woody,NA,608,125.1937984,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia microbotrya,Benth.,Fabales,Fabaceae,Acacia,Woody,28.678,684.5,187.7906977,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia myrtifolia,(Sm.) Willd.,Fabales,Fabaceae,Acacia,Woody,9.5,1244,419.379845,F,W,Yes,PY,shrub,matorral,1002,6419,no,PY,PY
+Acacia patagiata,R.S.Cowan & Maslin,Fabales,Fabaceae,Acacia,Woody,NA,443.5,85.46511628,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia pinguiculosa,R.S.Cowan & Maslin,Fabales,Fabaceae,Acacia,Woody,2.2824,503,63.56589147,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia pulchella,R.Br.,Fabales,Fabaceae,Acacia,Woody,5.1,752.5,228.875969,F,W,Yes,PY,shrub,matorral,1002,6425,no,PY,PY
+Acacia pycnantha,Benth.,Fabales,Fabaceae,Acacia,Woody,18.2,1024.5,358.3333333,F,W,Yes,PY,shrub,matorral,1002,6426,no,PY,PY
+Acacia redolens,Maslin,Fabales,Fabaceae,Acacia,Woody,6.1192,586,147.2868217,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia saligna,(Labill.) Wendl.,Fabales,Fabaceae,Acacia,Woody,16.9,1319.5,510.6589147,F,W,Yes,PY,tree,matorral,1001,6216,yes,PY,PY
+Acacia stellaticeps,"""Kodela, Tindale & D.A.Keith""",Fabales,Fabaceae,Acacia,Woody,13.414,713.5,196.3178295,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia stipuligera,F.Muell.,Fabales,Fabaceae,Acacia,Woody,10.2418,764,215.8914729,F,W,Yes,PY,shrub,"tropical savannas (dry woodlands,grasslands)",924,5129,yes,PY,PY
+Acacia subcaerulea,Lindl.,Fabales,Fabaceae,Acacia,Woody,34.9348,652.5,140.503876,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Acacia sulcata,R.Br.,Fabales,Fabaceae,Acacia,Woody,2.65044,791,194.1860465,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Acacia tetragonophylla,F.Muell.,Fabales,Fabaceae,Acacia,Woody,NA,580.5,113.372093,NA,NA,NA,PY,shrub,matorral,1002,6436,yes,PY,PY
+Acacia tortilis,(Forssk.) Hayne,Fabales,Fabaceae,Acacia,Woody,38.5,621.5,238.1782946,F,W,Yes,PY,tree,"tropical savannas (dry woodlands,grasslands)",923,4739,yes,PY,PY
+Acacia varia,Maslin,Fabales,Fabaceae,Acacia,Woody,4.1664,755.5,157.1705426,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Achillea collina,(Becker ex Rchb.f.) Heimerl,Asterales,Asteraceae,Achillea,Forb,0.143,1120,296.124031,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Achillea millefolium,L.,Asterales,Asteraceae,Achillea,Forb,0.2,2124.5,815.3100775,F,H,No,ND,herb-weed,temperate deciduous forest,1019,10327,yes,ND,ND
+Achillea nobilis,L.,Asterales,Asteraceae,Achillea,Forb,0.1672,1575,495.7364341,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Actinostrobus pyramidalis,Miq.,Pinales,Cupressaceae,Actinostrobus,Woody,21.34,956.5,223.8372093,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Agrimonia eupatoria,L.,Rosales,Rosaceae,Agrimonia,Forb,13,1548,504.6511628,F,H,No,NA,NA,NA,NA,NA,no,NA,PD
+Agriophyllum squarrosum,(L.) Moq.,Caryophyllales,Amaranthaceae,Agriophyllum,Forb,NA,347.5,121.5116279,NA,NA,NA,ND,Herbaceous/Shrub,Non-Saline Sands,1120,13515,yes,ND,ND
+Agropyron cristatum,(L.) Gaertn.,Poales,Poaceae,Agropyron,Graminoid,1.7,961.5,357.5581395,F,H,NA,PD,Herbaceous/Shrub,Non-Saline Sands,1120,13516,yes,PD,PD
+Agropyron NA,,Poales,Poaceae,Agropyron,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Agrostis capillaris,L.,Poales,Poaceae,Agrostis,Graminoid,0.075,2963,1071.317829,F,H,No,PD,herbaceous weed,"boreal, north-temperatured subalpine",1032,12241,no,PD,PD
+Aizoon canariense,L.,Caryophyllales,Aizoaceae,Aizoon,Forb,0.186,601.5,230.4263566,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Allium textile,A.Nelson & J.F.Macbr.,Asparagales,Amaryllidaceae,Allium,Forb,2.523,484,115.503876,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Allocasuarina acutivalvis,(F.Muell.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,2.3176,530,131.3953488,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Allocasuarina huegeliana,(Miq.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,2.16,2331,830.620155,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Allocasuarina humilis,(Otto & A.Dietr.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,2.7,748,182.5581395,F,W,NA,PD,shrub,matorral,1002,6458,no,PD,PD
+Allocasuarina lehmanniana,(Miq.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,NA,1058.5,330.8139535,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Allocasuarina luehmannii,(R.T.Baker) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,1.622,1407.5,440.503876,F,W,NA,ND,tree,"tropical savannas (dry woodlands,grasslands)",923,4770,no,ND,ND
+Allocasuarina thuyoides,(Miq.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,1.1708,696,177.5193798,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Allocasuarina verticillata,(Lam.) L.A.S.Johnson,Fagales,Casuarinaceae,Allocasuarina,Woody,4,1349,451.9379845,F,W,Yes,PD,tree,moist warm temperate woodlands,1010,8461,no,PD,PD
+Amaranthus retroflexus,L.,Caryophyllales,Amaranthaceae,Amaranthus,Forb,0.4,1354.5,525,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10339,no,PD,PD
+Amauriopsis dissecta,(A.Gray) Rydb.,Asterales,Asteraceae,Amauriopsis,,0.4972,564.5,165.3100775,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Amburana cearensis,(Allemao) A.C.Sm.,Fabales,Fabaceae,Amburana,Woody,NA,1706.5,600.1937984,F,W,No,ND,Tree,Tropical Deciduous,918,4305,no,ND,ND
+Amphibolia rupis-arcuatae,(Dinter) H.E.K.Hartmann,Caryophyllales,Aizoaceae,Amphibolia,Succulent,0.2176,126,42.24806202,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Anacyclus clavatus,(Desf.) Pers.,Asterales,Asteraceae,Anacyclus,Forb,0.6,709,262.4031008,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Anchusa arvensis,(L.) M.Bieb.,Boraginales,Boraginaceae,Anchusa,,NA,1294.5,483.9147287,NA,NA,NA,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12598,no,PD,PD
+Andropogon gerardii,Vitman,Poales,Poaceae,Andropogon,Graminoid,2.32,1526.5,541.2790698,F,H,No,PD,graminoid,temperate grassland,1025,11120,no,PD,PD
+Anthospermum spathulatum,Spreng.,Gentianales,Rubiaceae,Anthospermum,Woody,1.3884,581,200.3875969,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Anthriscus sylvestris,(L.) Hoffm.,Apiales,Apiaceae,Anthriscus,Forb,3.72,1509,531.0077519,F,H,No,MPD,herb-weed,temperate deciduous forest,1019,10352,no,MPD,MPD
+Anthyllis terniflora,(Lag.) Pau,Fabales,Fabaceae,Anthyllis,Forb,NA,481.5,101.744186,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Anthyllis vulneraria,L.,Fabales,Fabaceae,Anthyllis,Forb,3.14,1415,477.9069767,F,H,Yes,PY,herb,matorral,1004,7772,yes,PY,PY
+Arctotis acaulis,L.,Asterales,Asteraceae,Arctotis,Forb,5.7,694.5,222.6744186,F,H,NA,NA,NA,NA,NA,NA,no,NA,PD
+Arenaria serpyllifolia,L.,Caryophyllales,Caryophyllaceae,Arenaria,Forb,0.07,1826.5,685.8527132,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10356,no,PD,PD
+Argemone polyanthemos,(Fedde) Ownbey,Ranunculales,Papaveraceae,Argemone,Forb,3.3,673.5,207.1705426,NA,NA,NA,NA,NA,NA,NA,NA,no,MPD,MPD
+Aristida purpurea,Nutt.,Poales,Poaceae,Aristida,Graminoid,0.96,801.5,287.0155039,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Armeria maritima,(Mill.) Willd.,Caryophyllales,Plumbaginaceae,Armeria,Forb,1.18,1606,604.2635659,F,H,NA,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12287,no,PD,PD
+Arrhenatherum elatius,(L.) P.Beauv. ex J.Presl & C.Presl.,Poales,Poaceae,Arrhenatherum,Graminoid,2.8,2131.5,813.7596899,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Artemisia californica,Less.,Asterales,Asteraceae,Artemisia,Forb,0.06,920,338.372093,F,W,No,PD,shrub,matorral,1002,6510,no,PD,PD
+Artemisia campestris,L.,Asterales,Asteraceae,Artemisia,Forb,0.1,1984,759.6899225,F,NA,No,PD,Herbaceous/Shrub,Non-Saline Sands,1120,13524,yes,PD,PD
+Artemisia filifolia,Torr.,Asterales,Asteraceae,Artemisia,Woody,0.2508,1274.5,461.0465116,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Artemisia frigida,Willd.,Asterales,Asteraceae,Artemisia,Forb,0.08,891.5,335.8527132,NA,NA,NA,ND,shrub,woodland,1039,12085,yes,ND,ND
+Artemisia ludoviciana,Nutt.,Asterales,Asteraceae,Artemisia,Forb,0.11,1937,730.2325581,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Artemisia nova,A.Nelson,Asterales,Asteraceae,Artemisia,,1.6076,459.5,120.3488372,NA,NA,NA,PD,shrub,temperate desert,1028,11295,no,PD,PD
+Artemisia ordosica,Krasch.,Asterales,Asteraceae,Artemisia,,NA,530.5,151.744186,NA,NA,NA,PD,shrub,temperate grassland,1022,10649,yes,PD,PD
+Artemisia tridentata,Nutt.,Asterales,Asteraceae,Artemisia,,0.5,1416,525.1937984,F,W,No,PD,shrub,temperate desert,1028,11297,no,PD,PD
+Asclepias fascicularis,Decne.,Gentianales,Apocynaceae,Asclepias,,5.169,1123.5,417.248062,NA,NA,NA,PD,forb,temperate grassland,1024,10741,no,PD,PD
+Aspidosperma pyrifolium,Mart.,Gentianales,Apocynaceae,Aspidosperma,,NA,1329,377.1317829,F,W,NA,ND,Tree,Tropical Deciduous,918,4312,no,ND,ND
+Astartea ambigua,F.Muell.,Myrtales,Myrtaceae,Astartea,,0.65504,499.5,67.63565891,F,W,NA,NA,NA,NA,NA,NA,no,NA,PD
+Astragalus bisulcatus,(Hook.) A.Gray,Fabales,Fabaceae,Astragalus,,3.758,666.5,196.3178295,F,NA,Yes,PY,forb,temperate grassland,1024,10757,no,PY,PY
+Astragalus canadensis,L.,Fabales,Fabaceae,Astragalus,,2,945.5,288.5658915,NA,NA,NA,PY,forb,temperate grassland,1024,10758,no,PY,PY
+Astragalus drummondii,Hook.,Fabales,Fabaceae,Astragalus,,4.5565,492,95.73643411,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Astragalus laxmannii,Jacq.,Fabales,Fabaceae,Astragalus,,1.43,568,168.9922481,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Athanasia crithmifolia,(L.) L.,Asterales,Asteraceae,Athanasia,,0.181,660.5,155.2325581,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Atriplex canescens,(Pursh) Nutt.,Caryophyllales,Amaranthaceae,Atriplex,,8.5,1217.5,453.2945736,F,W,No,PD,shrub,"hot semidesert, desert",928,5677,yes,PD,PD
+Atriplex confertifolia,(Torr. & Frém.) S.Watson,Caryophyllales,Amaranthaceae,Atriplex,,7.33,739,265.503876,NA,NA,NA,PD,shrub,temperate desert,1028,11301,no,PD,PD
+Atriplex gardneri,(Moq.) Standl.,Caryophyllales,Amaranthaceae,Atriplex,,7.356,351.5,71.12403101,NA,NA,NA,PD,shrub,temperate desert,1028,11302,no,PD,PD
+Atriplex lentiformis,(S.Watson) H.M.Hall & Clem.,Caryophyllales,Amaranthaceae,Atriplex,,NA,315.5,97.09302326,NA,NA,NA,PD,shrub,temperate desert,1028,11304,no,PD,PD
+Atriplex semibaccata,R.Br.,Caryophyllales,Amaranthaceae,Atriplex,,4.3,1078.5,417.248062,F,W,No,PD,Halophyte,Salt Marsh/Desert,1113,13277,no,PD,PD
+Atriplex vesicaria,Heward ex Benth.,Caryophyllales,Amaranthaceae,Atriplex,,5.77,463.5,157.5581395,F,W,NA,PD,Halophyte,Salt Marsh/Desert,1113,13279,no,PD,PD
+Atriplex vestita,(Thunb.) Aellen,Caryophyllales,Amaranthaceae,Atriplex,,1.262,452,170.5426357,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Avena barbata,Pott ex Link,Poales,Poaceae,Avena,,19,1033,399.6124031,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Babiana NA,,Asparagales,Iridaceae,Babiana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Baileya multiradiata,Harv. & A.Gray ex Torr.,Asterales,Asteraceae,Baileya,,0.87956,519.5,176.1627907,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Balsamorhiza sagittata,(Pursh) Nutt.,Asterales,Asteraceae,Balsamorhiza,,5.54,934,293.0232558,F,NA,NA,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12325,yes,PD,PD
+Banksia caleyi,R.Br.,Proteales,Proteaceae,Banksia,,76.9628,623,104.6511628,F,W,NA,PD,shrub,matorral,1002,6549,no,PD,PD
+Banksia media,R.Br.,Proteales,Proteaceae,Banksia,,39.65,829.5,230.4263566,F,W,NA,PD,shrub,matorral,1002,6564,no,PD,PD
+Boltonia asteroides,(L.) L'Hér.,Asterales,Asteraceae,Boltonia,,0.4,1425.5,436.2403101,F,NA,NA,PD,herb-nonweed,temperate deciduous forest,1018,10048,no,PD,PD
+Bouteloua curtipendula,(Michx.) Torr.,Poales,Poaceae,Bouteloua,,1.3,1319,475.1937984,F,H,No,PD,graminoid,temperate grassland,1025,11123,no,PD,PD
+Briza media,L.,Poales,Poaceae,Briza,,0.5,1407.5,431.2015504,F,H,No,ND,herb-weed,temperate deciduous forest,1019,10380,yes,ND,ND
+Bromus carinatus,Hook. & Arn.,Poales,Poaceae,Bromus,,6.95,2392.5,906.3953488,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Bromus erectus,Huds.,Poales,Poaceae,Bromus,,4.55,1159,337.5968992,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Bromus inermis,Leyss.,Poales,Poaceae,Bromus,,2.9,1415.5,501.3565891,F,H,No,ND,Herbaceous/Shrub,Non-Saline Sands,1120,13531,no,ND,ND
+Bromus marginatus,Nees ex Steud.,Poales,Poaceae,Bromus,,10.42,1494.5,514.5348837,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Bromus rubens,L.,Poales,Poaceae,Bromus,,2.8,1120,424.8062016,F,H,NA,PD,herbaceous annuals weed,"hot semidesert, desert",932,6078,no,PD,PD
+Bromus setifolius,J.Presl,Poales,Poaceae,Bromus,,5.85,1056,368.9922481,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Buchloe dactyloides,(Nutt.) Engelm.,Poales,Poaceae,Buchloe,,7.77,881,317.0542636,NA,NA,NA,PD,graminoid,temperate grassland,1025,11130,no,PD,PD
+Bunias orientalis,L.,Brassicales,Brassicaceae,Bunias,,24.7184,1133.5,397.0930233,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Calamovilfa longifolia,(Hook.) Scribn.,Poales,Poaceae,Calamovilfa,,1.08664,712.5,166.0852713,F,H,No,PD,Herbaceous/Shrub,Non-Saline Sands,1120,13533,yes,PD,PD
+Calandrinia ciliata,(Ruiz & Pav.) DC.,Caryophyllales,Portulacaceae,Calandrinia,,0.51,1514.5,586.627907,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Callitris preissii,Miq.,Pinales,Cupressaceae,Callitris,,12.18,779,236.8217054,F,W,NA,ND,shrub,matorral,1002,6629,yes,ND,ND
+Calothamnus gracilis,R.Br. ex W.T.Aiton,Myrtales,Myrtaceae,Calothamnus,,0.36,647.5,166.4728682,NA,NA,NA,PD,shrub,matorral,1002,6632,no,PD,PD
+Calothamnus quadrifidus,R.Br. ex W.T.Aiton,Myrtales,Myrtaceae,Calothamnus,,1.35,831,231.0077519,F,W,No,ND,shrub,matorral,1002,6634,no,ND,ND
+Campanula glomerata,L.,Asterales,Campanulaceae,Campanula,,0.16,1296,432.9457364,F,H,No,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12351,no,PD,PD
+Campanula patula,L.,Asterales,Campanulaceae,Campanula,,0.0239,1243,338.7596899,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Campanula persicifolia,L.,Asterales,Campanulaceae,Campanula,,0.1,1176,316.2790698,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Campanula rapunculoides,L.,Asterales,Campanulaceae,Campanula,,0.2,1366.5,403.6821705,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10386,no,PD,PD
+Cardamine pratensis,L.,Brassicales,Brassicaceae,Cardamine,,0.54,1522.5,562.9844961,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Carex foenea,Willd.,Poales,Cyperaceae,Carex,,1.344,1676,543.0232558,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Carlina vulgaris,L.,Asterales,Asteraceae,Carlina,,1.26,1196.5,323.0620155,F,H,NA,PD,herb-nonweed,temperate deciduous forest,1018,10092,no,PD,PD
+Carthamus lanatus,L.,Asterales,Asteraceae,Carthamus,,11,1037.5,350.5813953,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Carum carvi,L.,Apiales,Apiaceae,Carum,,2.25,1431.5,548.255814,F,H,No,MPD,herb-nonweed,temperate deciduous forest,1018,10093,no,MPD,MPD
+Castilleja applegatei,Fernald,Lamiales,Orobanchaceae,Castilleja,,0.246,1035,360.8527132,P,NA,NA,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12380,no,PD,PD
+Cenchrus ciliaris,L.,Poales,Poaceae,Cenchrus,,1.4,1650,639.5348837,F,H,No,PD,herbaceous weed,"tropical savannas (dry woodlands, grasslands)",926,5356,yes,PD,PD
+Centaurea jacea,L.,Asterales,Asteraceae,Centaurea,,1.53,1371.5,425.3875969,F,H,No,NA,NA,NA,NA,NA,no,PD,PD
+Centaurea pannonica,(Heuff.) Hayek,Asterales,Asteraceae,Centaurea,,NA,896.5,162.9844961,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Centaurea scabiosa,(Janka) Asch. & Graebn.,Asterales,Asteraceae,Centaurea,,4.7756,565.5,24.2248062,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Centaurea solstitialis,L.,Asterales,Asteraceae,Centaurea,,3,1096.5,421.124031,F,H,NA,PD,herb,matorral,1004,7845,no,PD,PD
+Centaurea stoebe,Tausch,Asterales,Asteraceae,Centaurea,,1.404,1437.5,481.5891473,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Cephalophyllum spissum,H.E.K.Hartmann,Caryophyllales,Aizoaceae,Cephalophyllum,,0.1288,169,3.100775194,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cercocarpus montanus,Raf.,Rosales,Rosaceae,Cercocarpus,,9.91,1269.5,458.7209302,F,W,Yes,PD,shrub,woodland,1039,12104,no,PD,PD
+Cercocarpus NA,,Rosales,Rosaceae,Cercocarpus,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Chaetobromus involucratus,(Nees) Verboom,Poales,Poaceae,Chaetobromus,,NA,312.5,52.90697674,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Chamaecrista fasciculata,(Michx.) Greene,Fabales,Fabaceae,Chamaecrista,,8.4,1343.5,371.5116279,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cheiridopsis denticulata,(Haw.) N.E.Br.,Caryophyllales,Aizoaceae,Cheiridopsis,,NA,306.5,99.03100775,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Chironia baccifera,L.,Gentianales,Gentianaceae,Chironia,,NA,647,188.7596899,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Chloris NA,,Poales,Poaceae,Chloris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Chondrosum eriopodum,Torr.,Poales,Poaceae,Chondrosum,,0.34,1097,384.496124,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Chondrosum gracile,Kunth,Poales,Poaceae,Chondrosum,,0.39,1320,493.4108527,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Chrysocoma coma-aurea,L.,Asterales,Asteraceae,Chrysocoma,,NA,761.5,256.7829457,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cichorium intybus,L.,Asterales,Asteraceae,Cichorium,,NA,1644,609.6899225,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Cirsium oleraceum,(L.) Scop.,Asterales,Asteraceae,Cirsium,,NA,1170.5,333.1395349,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cistus clusii,Dunal,Malvales,Cistaceae,Cistus,,NA,754.5,203.6821705,F,W,NA,PY,shrub,matorral,1002,6691,no,PY,PY
+Cleome lutea,Hook.,Brassicales,Cleomaceae,Cleome,,NA,262,50,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Cleome serrulata,Pursh,Brassicales,Cleomaceae,Cleome,,NA,646,173.6434,NA,NA,NA,PD,herb,woodland,1040,12161,yes,PD,PD
+Clinopodium vulgare,L.,Lamiales,Lamiaceae,Clinopodium,,NA,1595,497.6744186,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Conicosia elongata,(Haw.) Schwantes,Caryophyllales,Aizoaceae,Conicosia,,NA,350,103.4883721,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Consolida regalis,Gray,Ranunculales,Ranunculaceae,Consolida,,NA,1089.5,325,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Coreopsis tinctoria,Nutt.,Asterales,Asteraceae,Coreopsis,,NA,1252.5,477.7131783,F,H,No,ND,herb-weed,temperate deciduous forest,1019,10410,no,ND,ND
+Cota tinctoria,(L.) J.Gay,Asterales,Asteraceae,Cota,Forb,0.33,1110,308.9147287,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cotula turbinata,L.,Asterales,Asteraceae,Cotula,,NA,740.5,204.8449612,F,NA,NA,NA,NA,NA,NA,NA,no,NA,ND
+Crepis acuminata,Nutt.,Asterales,Asteraceae,Crepis,,NA,928,284.1085271,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Crepis biennis,Lapeyr.,Asterales,Asteraceae,Crepis,,NA,1117,353.875969,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Croton setigerus,Hook.,Malpighiales,Euphorbiaceae,Croton,,NA,931,291.4728682,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cruciata pedemontana,(Bellardi) Ehrend.,Gentianales,Rubiaceae,Cruciata,,NA,983.5,243.9922481,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cyanus segetum,Hill,Asterales,Asteraceae,Cyanus,,NA,1337.5,426.1627907,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Cymbopogon marginatus,(Steud.) Stapf ex Burtt-Davy,Poales,Poaceae,Cymbopogon,,NA,625,181.3953488,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Cynoglossum officinale,L.,Boraginales,Boraginaceae,Cynoglossum,,NA,1272,409.3023256,NA,NA,NA,PD,herb-weed,temperate deciduous forest,1019,10417,no,PD,PD
+Dactylis glomerata,L.,Poales,Poaceae,Dactylis,,NA,2445.5,941.6666667,F,H,No,PD,graminoid,temperate grassland,1025,11138,yes,PD,PD
+Dalea candida,Willd.,Fabales,Fabaceae,Dalea,,NA,821,274.8062016,NA,NA,NA,PY,forb,temperate grassland,1024,10816,no,PY,PY
+Dalea purpurea,Vent.,Fabales,Fabaceae,Dalea,,NA,844.5,243.2170543,NA,NA,NA,PY,forb,temperate grassland,1024,10817,no,PY,PY
+Daucus carota,L.,Apiales,Apiaceae,Daucus,,NA,1733.5,669.9612403,F,H,No,MD,herb-weed,temperate deciduous forest,1019,10427,yes,MD,MD
+Daviesia benthamii,Meissner,Fabales,Fabaceae,Daviesia,,NA,676.5,196.7054264,F,NA,Yes,NA,NA,NA,NA,NA,no,PY,PY
+Daviesia emarginata,(Miq.) Crisp,Fabales,Fabaceae,Daviesia,,NA,582,112.7906977,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Daviesia hakeoides,Meissner,Fabales,Fabaceae,Daviesia,,NA,665.5,195.1550388,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Delphinium geyeri,Greene,Ranunculales,Ranunculaceae,Delphinium,,NA,397,82.55813953,NA,NA,NA,MPD,forb,temperate grassland,1024,10818,no,MPD,MPD
+Descurainia pinnata,(Walter) Britton,Brassicales,Brassicaceae,Descurainia,,NA,906,330.2325581,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Desmanthus illinoensis,(Michx.) MacMill.,Fabales,Fabaceae,Desmanthus,,NA,1193,441.0852713,NA,NA,NA,PY,forb,temperate grassland,1024,10821,no,PY,PY
+Dianthus carthusianorum,L.,Caryophyllales,Caryophyllaceae,Dianthus,,NA,2031,642.248062,F,H,NA,NA,NA,NA,NA,NA,no,NA,PD
+Dianthus deltoides,L.,Caryophyllales,Caryophyllaceae,Dianthus,,NA,1836.5,600.1937984,F,H,NA,NA,NA,NA,NA,NA,no,NA,PD
+Dianthus giganteiformis,(A.Kern.) Soó,Caryophyllales,Caryophyllaceae,Dianthus,,NA,832,119.7674419,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Didelta carnosa,(L.f.) Aiton,Asterales,Asteraceae,Didelta,,NA,429,159.6899225,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Digitaria californica,(Benth.) Henrard,Poales,Poaceae,Digitaria,,NA,1167,423.255814,F,NA,NA,"ND,PD",herbaceous perennial,"hot semidesert, desert",931,5988,yes,"ND,PD","ND,PD"
+Dimorphotheca pluvialis,(L.) Moench,Asterales,Asteraceae,Dimorphotheca,,NA,720.5,258.7209302,F,H,NA,PD,herbaceous annuals,"hot semidesert, desert",932,6101,no,PD,PD
+Diplotaxis erucoides,(L.) DC.,Brassicales,Brassicaceae,Diplotaxis,,NA,697.5,257.5581395,F,H,NA,ND,herb,matorral,1004,7916,no,ND,ND
+Distichlis spicata,(L.) Greene,Poales,Poaceae,Distichlis,,NA,1580.5,612.5968992,F,H,No,PD,herb,temperate desert,1029,11392,yes,PD,PD
+Dodonaea bursariifolia,F.Muell.,Sapindales,Sapindaceae,Dodonaea,,NA,488.5,110.6589147,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Dodonaea coriacea,(Ewart & O.B.Davies) McGill.,Sapindales,Sapindaceae,Dodonaea,,NA,393.5,79.65116279,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Dodonaea stenozyga,F.Muell.,Sapindales,Sapindaceae,Dodonaea,,NA,748,224.0310078,F,W,NA,PY,shrub,matorral,1002,6810,no,PY,PY
+Dodonaea viscosa,(L.) Jacq.,Sapindales,Sapindaceae,Dodonaea,,NA,2897,1122.093023,F,W,No,PY,shrub,temperate deciduous forest,1015,9675,yes,PY,PY
+Drosanthemum hispidum,(L.) Schwantes,Caryophyllales,Aizoaceae,Drosanthemum,,NA,736,266.6666667,F,NA,NA,PD,succulent perennials,"hot semidesert, desert",930,5840,no,PD,PD
+Dryandra quercifolia,Meisn.,Proteales,Proteaceae,Dryandra,,NA,781,0,F,W,NA,PD,shrub,matorral,1002,6853,no,PD,PD
+Echinacea angustifolia,DC.,Asterales,Asteraceae,Echinacea,,NA,770,179.8449612,F,H,No,PD,forb,temperate grassland,1024,10831,no,PD,PD
+Echium vulgare,L.,Boraginales,Boraginaceae,Echium,,NA,2174,774.4186047,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10436,no,PD,PD
+Ehrharta calycina,Sm.,Poales,Poaceae,Ehrharta,,NA,978,363.1782946,F,H,NA,PD,herbaceous perennial,"hot semidesert, desert",931,5994,no,PD,PD
+Elymus canadensis,L.,Poales,Poaceae,Elymus,,NA,1446.5,509.1085271,F,H,No,PD,graminoid,temperate grassland,1025,11144,no,PD,PD
+Elymus caninus,(L.) L.,Poales,Poaceae,Elymus,Graminoid,3.1,1406,460.4651163,NA,NA,NA,ND,herb,temperate deciduous forest,1017,9851,no,ND,ND
+Elymus elymoides,(Raf.) Swezey,Poales,Poaceae,Elymus,,NA,1595.5,581.9767442,F,H,No,PD,herb,temperate desert,1029,11447,no,PD,PD
+Elymus glaucus,Buckley,Poales,Poaceae,Elymus,,NA,1612,591.0852713,F,H,No,ND,herb,montane forest,1037,11987,no,ND,ND
+Elymus lanceolatus,(Scribn. & J.G.Sm.) Gould,Poales,Poaceae,Elymus,,NA,1044.5,344.7674419,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Elymus multisetus,(J.G.Sm.) Burtt Davy,Poales,Poaceae,Elymus,,NA,1196.5,423.0620155,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Elymus NA,,Poales,Poaceae,Elymus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Elymus smithii,(Rydb.) Gould,Poales,Poaceae,Elymus,Graminoid,2.89,1372,455.8139535,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Elymus spicatus,(Pursh) Gould,Poales,Poaceae,Elymus,,NA,1155.5,383.9147287,NA,NA,NA,PD,herb,temperate desert,1029,11372,no,PD,PD
+Elymus trachycaulus,(Link) Gould ex Shinners,Poales,Poaceae,Elymus,Graminoid,3.2,933.5,267.6356589,NA,NA,NA,PD,herb,temperate desert,1029,11373,no,PD,PD
+Elymus virginicus,L.,Poales,Poaceae,Elymus,,NA,907.5,268.7984496,F,H,No,PD,graminoid,temperate grassland,1025,11148,yes,PD,PD
+Elymus wawawaiensis,J.R.Carlson & Barkworth,Poales,Poaceae,Elymus,,NA,671.5,169.1860465,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Encelia californica,Nutt.,Asterales,Asteraceae,Encelia,,NA,388,125.1937984,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Enteropogon macrostachyus,(A.Rich.) Munro ex Benth.,Poales,Poaceae,Enteropogon,,NA,855,273.255814,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eragrostis superba,Peyr.,Poales,Poaceae,Eragrostis,,NA,998.5,382.3643411,F,NA,No,PD,herbaceous weed,"tropical savannas (dry woodlands, grasslands)",926,5431,no,PD,PD
+Eragrostis trichodes,(Nutt.) Alph.Wood,Poales,Poaceae,Eragrostis,,NA,854.5,229.2635659,F,H,NA,PD,Herbaceous/Shrub,Non-Saline Sands,1120,13558,no,PD,PD
+Erepsia anceps,(Haw.) Schwantes,Caryophyllales,Aizoaceae,Erepsia,,NA,712.5,155.620155,NA,NA,NA,PD,herb,matorral,1004,7943,no,PD,PD
+Ericameria nauseosa,,Asterales,Asteraceae,Ericameria,,NA,765,254.2635659,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Erigeron speciosus,(Lindl.) DC.,Asterales,Asteraceae,Erigeron,,NA,1418,461.627907,F,H,No,ND,herb,montane forest,1037,11988,no,ND,ND
+Eriocephalus africanus,L.,Asterales,Asteraceae,Eriocephalus,,NA,866.5,297.4806202,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eriocephalus microphyllus,DC.,Asterales,Asteraceae,Eriocephalus,,NA,304,98.8372093,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eriogonum fasciculatum,Benth.,Caryophyllales,Polygonaceae,Eriogonum,,NA,903,329.0697674,NA,NA,NA,PD,shrub,"hot semidesert, desert",928,5723,yes,PD,PD
+Eriogonum umbellatum,Torr.,Caryophyllales,Polygonaceae,Eriogonum,,NA,1503,552.3255814,NA,NA,NA,PD,herb,montane forest,1037,11990,yes,PD,PD
+Eryngium campestre,L.,Apiales,Apiaceae,Eryngium,,NA,1151,359.6899225,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Erysimum capitatum,(Douglas) Greene,Brassicales,Brassicaceae,Erysimum,,NA,1447.5,527.3255814,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Erythrina velutina,Willd.,Fabales,Fabaceae,Erythrina,,NA,1374.5,464.1472868,NA,NA,NA,PY,Tree,Tropical Deciduous,918,4372,no,PY,PY
+Eschscholzia californica,Cham.,Ranunculales,Papaveraceae,Eschscholzia,,NA,1537.5,577.7131783,F,H,NA,MPD,herb,matorral,1004,7950,no,MPD,MPD
+Eucalyptus angulosa,Schauer,Myrtales,Myrtaceae,Eucalyptus,,NA,725,166.2790698,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus annulata,Benth.,Myrtales,Myrtaceae,Eucalyptus,,NA,579.5,126.1627907,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus astringens,(Maiden) Maiden,Myrtales,Myrtaceae,Eucalyptus,,NA,578.5,91.66666667,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus captiosa,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,454.5,41.66666667,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus decipiens,Endl.,Myrtales,Myrtaceae,Eucalyptus,,NA,721,167.8294574,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus falcata,Turcz.,Myrtales,Myrtaceae,Eucalyptus,,NA,658,192.248062,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus flocktoniae,(Maiden) Maiden,Myrtales,Myrtaceae,Eucalyptus,,NA,456,80.62015504,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus incrassata,Labill.,Myrtales,Myrtaceae,Eucalyptus,,NA,777.5,238.5658915,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus lehmannii,(Schauer) Benth.,Myrtales,Myrtaceae,Eucalyptus,,NA,787.5,193.9922481,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus melanophitra,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,516,57.36434109,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus neutra,D.Nicolle,Myrtales,Myrtaceae,Eucalyptus,,NA,472.5,74.2248062,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus occidentalis,Endl.,Myrtales,Myrtaceae,Eucalyptus,,NA,721,167.8294574,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus odontocarpa,F.Muell.,Myrtales,Myrtaceae,Eucalyptus,,NA,425,82.17054264,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus phaenophylla,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,557.5,115.6976744,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus phenax,Brooker & Slee,Myrtales,Myrtaceae,Eucalyptus,,NA,542.5,118.7984496,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus platypus,Hook.f.,Myrtales,Myrtaceae,Eucalyptus,,NA,614.5,102.5193798,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus pluricaulis,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,581.5,106.0077519,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus preissiana,Schauer,Myrtales,Myrtaceae,Eucalyptus,,NA,629,101.1627907,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus tetragona,(R.Br.) F.Muell.,Myrtales,Myrtaceae,Eucalyptus,,NA,595,98.0620155,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus tetraptera,Turcz.,Myrtales,Myrtaceae,Eucalyptus,,NA,528.5,106.3953488,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus thamnoides,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,560,98.8372093,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus uncinata,Turcz.,Myrtales,Myrtaceae,Eucalyptus,,NA,531,117.4418605,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus vegrandis,L.A.S.Johnson & K.D.Hill,Myrtales,Myrtaceae,Eucalyptus,,NA,714.5,151.744186,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus vesiculosa,Brooker & Hopper,Myrtales,Myrtaceae,Eucalyptus,,NA,519,56.20155039,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Eucalyptus xanthonema,Turcz.,Myrtales,Myrtaceae,Eucalyptus,,NA,578.5,85.46511628,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Euphorbia cyparissias,L.,Malpighiales,Euphorbiaceae,Euphorbia,,NA,1348,436.8217054,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Exocarpos sparteus,R.Br.,Santalales,Santalaceae,Exocarpos,,NA,909.5,286.627907,P,NA,NA,NA,NA,NA,NA,NA,no,NA,MPD
+Falcaria vulgaris,Bernh.,Apiales,Apiaceae,Falcaria,,NA,748,210.0775194,NA,NA,NA,MPD,herb-weed,temperate deciduous forest,1019,10450,no,MPD,MPD
+Felicia filifolia,(Vent.) Burtt Davy,Asterales,Asteraceae,Felicia,,NA,953.5,322.2868217,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Festuca idahoensis,Elmer,Poales,Poaceae,Festuca,,NA,1665,591.4728682,F,H,NA,PD,herb,temperate desert,1029,11402,no,PD,PD
+Festuca occidentalis,Hook.,Poales,Poaceae,Festuca,,NA,1598.5,515.3100775,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Festuca ovina,L.,Poales,Poaceae,Festuca,,NA,2002,710.8527132,F,H,No,PD,herb,temperate desert,1029,11403,no,PD,PD
+Festuca pseudovina,Hack. ex Wiesb.,Poales,Poaceae,Festuca,,NA,889,238.7596899,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Festuca rupicola,Heuff.,Poales,Poaceae,Festuca,,NA,930,272.0930233,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Filipendula vulgaris,Moench,Rosales,Rosaceae,Filipendula,,NA,1289,393.7984496,F,H,No,NA,NA,NA,NA,NA,no,PD,PD
+Gaillardia aristata,Pursh,Asterales,Asteraceae,Gaillardia,,NA,1133,373.255814,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Gaillardia pulchella,Foug.,Asterales,Asteraceae,Gaillardia,,NA,2239.5,860.6589147,F,NA,NA,PD,herbaceous annuals weed,"hot semidesert, desert",932,6117,no,PD,PD
+Galenia sarcophylla,Fenzl,Caryophyllales,Aizoaceae,Galenia,,NA,380.5,142.8294574,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Galium album,Mill.,Gentianales,Rubiaceae,Galium,,NA,1285.5,452.5193798,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Galium verum,L.,Gentianales,Rubiaceae,Galium,,NA,1434,506.5891473,F,H,No,PD,forb,temperate grassland,1024,10849,yes,PD,PD
+Gastrolobium parviflorum,(Benth.) Crisp,Fabales,Fabaceae,Gastrolobium,,NA,585.5,116.4728682,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Gastrolobium racemosum,(Turcz.) Crisp,Fabales,Fabaceae,Gastrolobium,,NA,608.5,88.56589147,NA,NA,NA,PY,shrub,matorral,1002,6952,no,PY,PY
+Gastrolobium spinosum,Benth.,Fabales,Fabaceae,Gastrolobium,,NA,672.5,186.627907,F,NA,Yes,NA,NA,NA,NA,NA,no,PY,PY
+Geranium pratense,L.,Geraniales,Geraniaceae,Geranium,,NA,1314,476.3565891,F,H,NA,PY,herb-weed,temperate deciduous forest,1019,10466,yes,PY,PY
+Geum macrophyllum,Willd.,Rosales,Rosaceae,Geum,,NA,2287.5,831.9767442,NA,NA,NA,ND,forb,temperate grassland,1024,10860,no,ND,ND
+Gompholobium polyzygum,F.Muell.,Fabales,Fabaceae,Gompholobium,,NA,284,42.24806202,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Goodenia azurea,F.Muell.,Asterales,Goodeniaceae,Goodenia,,NA,372.5,77.71317829,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Goodenia scapigera,R.Br.,Asterales,Goodeniaceae,Goodenia,,NA,672.5,156.7829457,F,H,NA,PD,herb,matorral,1004,7978,no,PD,PD
+Goodia lotifolia,Salisb.,Fabales,Fabaceae,Goodia,,NA,1098,343.0232558,F,W,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Grayia spinosa,(Hook.) Moq.,Caryophyllales,Amaranthaceae,Grayia,,NA,807.5,287.7906977,NA,NA,NA,PD,shrub,"hot semidesert, desert",928,5733,yes,PD,PD
+Grevillea stenobotrya,F.Muell.,Proteales,Proteaceae,Grevillea,,NA,664.5,206.0077519,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Grindelia hirsutula,Hook. & Arn.,Asterales,Asteraceae,Grindelia,,NA,1053.5,349.0310078,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Hakea commutata,F.Muell.,Proteales,Proteaceae,Hakea,,NA,467.5,94.76744186,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Hakea corymbosa,R.Br.,Proteales,Proteaceae,Hakea,,NA,614,112.4031008,F,W,No,"ND,PD",shrub,matorral,1002,7067,no,"ND,PD","ND,PD"
+Hakea crassifolia,Meisn.,Proteales,Proteaceae,Hakea,,NA,378,0,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Hakea laurina,R.Br.,Proteales,Proteaceae,Hakea,,NA,778.5,227.7131783,F,W,No,ND,shrub,matorral,1002,7091,no,ND,ND
+Hakea lissocarpha,R.Br.,Proteales,Proteaceae,Hakea,,NA,733,205.03875970000001,F,W,No,"ND,PD",shrub,matorral,1002,7093,no,"ND,PD","ND,PD"
+Hakea nitida,R.Br.,Proteales,Proteaceae,Hakea,,NA,713.5,173.8372093,F,W,NA,ND,shrub,matorral,1002,7101,no,ND,ND
+Hakea pandanicarpa,R.Br.,Proteales,Proteaceae,Hakea,,NA,808.5,247.8682171,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Hakea strumosa,Meisn.,Proteales,Proteaceae,Hakea,,NA,538.5,100.9689922,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Hakea verrucosa,F.Muell.,Proteales,Proteaceae,Hakea,,NA,847,224.8062016,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Hedysarum boreale,Nutt.,Fabales,Fabaceae,Hedysarum,,NA,1190,415.8914729,NA,NA,NA,PY,herbaceous,"boreal, north-temperatured subalpine",1032,12526,no,PY,PY
+Helianthemum squamatum,(L.) Dum.Cours.,Malvales,Cistaceae,Helianthemum,,NA,679,241.8604651,NA,NA,NA,PY,shrub,matorral,1002,7136,no,PY,PY
+Helianthemum syriacum,(Jacq.) Dum.Cours.,Malvales,Cistaceae,Helianthemum,,NA,701.5,233.1395349,F,NA,No,NA,NA,NA,NA,NA,no,PY,PY
+Helianthemum violaceum,(Cav.) Pers.,Malvales,Cistaceae,Helianthemum,,NA,771.5,216.8604651,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Helianthus annuus,L.,Asterales,Asteraceae,Helianthus,,NA,2224,862.0155039,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10470,no,PD,PD
+Helianthus maximiliani,Schrad.,Asterales,Asteraceae,Helianthus,,NA,888.5,258.7209302,F,NA,NA,PD,forb,temperate grassland,1024,10872,yes,PD,PD
+Helianthus NA,,Asterales,Asteraceae,Helianthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Helichrysum cymosum,(L.) D.Don,Asterales,Asteraceae,Helichrysum,,NA,1278.5,383.5271318,F,variable,NA,NA,NA,NA,NA,NA,no,PD,PD
+Helichrysum hamulosum,E.Mey. ex DC.,Asterales,Asteraceae,Helichrysum,,NA,515,137.5968992,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Helichrysum NA,,Asterales,Asteraceae,Helichrysum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Helichrysum patulum,(L.) D.Don,Asterales,Asteraceae,Helichrysum,,NA,660.5,155.2325581,F,NA,NA,PD,shrub,matorral,1002,7140,no,PD,PD
+Helichrysum teretifolium,(L.) D.Don,Asterales,Asteraceae,Helichrysum,,NA,685.5,175.7751938,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Helictotrichon pratense,(L.) Pilg.,Poales,Poaceae,Helictotrichon,,NA,1246,349.2248062,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Helictotrichon pubescens,(Huds.) Schult. & Schult.f.,Poales,Poaceae,Helictotrichon,,NA,1418.5,492.4418605,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Heliomeris multiflora,Nutt.,Asterales,Asteraceae,Heliomeris,,NA,760,250.7751938,F,NA,No,NA,NA,NA,NA,NA,no,NA,NA
+Hemizonia fasciculata,(DC.) Torr. & A.Gray,Asterales,Asteraceae,Hemizonia,,NA,447.5,146.7054264,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Heracleum sphondylium,L.,Apiales,Apiaceae,Heracleum,,NA,1888.5,669.5736434,F,H,NA,NA,NA,NA,NA,NA,no,MPD,MPD
+Hermannia disermifolia,Jacq.,Malvales,Malvaceae,Hermannia,,NA,317.5,102.1317829,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Hermannia hyssopifolia,L.,Malvales,Malvaceae,Hermannia,,NA,660.5,156.0077519,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Heterotheca villosa,(Pursh) Shinners,Asterales,Asteraceae,Heterotheca,,NA,879.5,284.6899225,F,NA,No,ND,shrub,woodland,1039,12122,no,ND,ND
+Hilaria jamesii,(Torr.) Benth.,Poales,Poaceae,Hilaria,,NA,363.5,99.41860465,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Hirpicium alienatum,(Thunb.) Druce,Asterales,Asteraceae,Hirpicium,NA,NA,NA,NA,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Holcus lanatus,L.,Poales,Poaceae,Holcus,,NA,2714,1023.643411,F,H,No,ND,herb-weed,temperate deciduous forest,1019,10475,no,ND,ND
+Hordeum brachyantherum,Nevski,Poales,Poaceae,Hordeum,,NA,1917,709.3023256,F,H,No,ND,graminoid,temperate grassland,1025,11161,no,ND,ND
+Hypericum perforatum,L.,Malpighiales,Hypericaceae,Hypericum,,NA,2480.5,949.0310078,F,H,No,PD,weed,temperate grassland,1027,11248,no,PD,PD
+Hypertelis salsoloides,(Burch.) Adamson,Caryophyllales,Molluginaceae,Hypertelis,,NA,627,232.9457364,F,variable,NA,NA,NA,NA,NA,NA,no,NA,NA
+Indigofera monophylla,DC.,Fabales,Fabaceae,Indigofera,,NA,814,241.4728682,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Inula salicina,L.,Asterales,Asteraceae,Inula,,NA,1415.5,525.3876,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Isopogon trilobus,R.Br.,Proteales,Proteaceae,Isopogon,,NA,565,96.12403101,F,W,NA,PD,shrub,matorral,1002,7204,no,PD,PD
+Jasione montana,L.,Asterales,Campanulaceae,Jasione,,NA,1357.5,432.751938,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Jordaaniella spongiosa,(L.Bolus) H.E.K.Hartmann,Caryophyllales,Aizoaceae,Jordaaniella,,NA,119.5,26.5503876,NA,NA,NA,PD,herbaceous perennial,"hot semidesert, desert",931,5980,no,PD,PD
+Juniperus osteosperma,(Torr.) Little,Pinales,Cupressaceae,Juniperus,,NA,764,249.2248062,F,W,NA,PD,tree,woodland,1038,12059,no,PD,PD
+Juniperus thurifera,L.,Pinales,Cupressaceae,Juniperus,,NA,993,348.0620155,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Kennedia prostrata,R.Br.,Fabales,Fabaceae,Kennedia,,NA,1339.5,456.3953488,F,NA,Yes,PY,shrub,matorral,1002,7233,yes,PY,PY
+Knautia arvensis,(L.) Coult.,Dipsacales,Caprifoliaceae,Knautia,,NA,1556.5,488.1782946,F,H,No,PD,herbaceous weed,"boreal, north-temperatured subalpine",1032,12557,no,PD,PD
+Koeleria macrantha,(Ledeb.) Schult.,Poales,Poaceae,Koeleria,,NA,1609.5,595.5426357,F,H,No,PD,graminoid,temperate grassland,1025,11164,no,PD,PD
+Koeleria pyramidata,(Lam.) P.Beauv.,Poales,Poaceae,Koeleria,,NA,1184,425.9689922,F,H,No,PD,graminoid,temperate grassland,1025,11163,no,PD,PD
+Krascheninnikovia ceratoides,(Pursh) Heklau,Caryophyllales,Amaranthaceae,Krascheninnikovia,,NA,1094,393.4108527,NA,NA,NA,PD,Halophyte,Salt Marsh/Desert,1113,13288,yes,PD,PD
+Kunzea recurva,Schauer,Myrtales,Myrtaceae,Kunzea,,NA,699,205.4263566,F,W,NA,ND,shrub,matorral,1002,7241,no,ND,ND
+Lathyrus pratensis,L.,Fabales,Fabaceae,Lathyrus,,NA,1467,511.2403101,C,H,Yes,PY,herbaceous weed,"boreal, north-temperatured subalpine",1032,12567,yes,PY,PY
+Lathyrus tuberosus,L.,Fabales,Fabaceae,Lathyrus,,NA,1437,493.0232558,C,H,Yes,NA,NA,NA,NA,NA,no,PY,PY
+Lavatera thuringiaca,L.,Malvales,Malvaceae,Lavatera,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PY
+Lebeckia sericea,Thunb.,Fabales,Fabaceae,Lebeckia,,NA,136.5,15.31007752,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Leipoldtia schultzei,Friedr.,Caryophyllales,Aizoaceae,Leipoldtia,,NA,417.5,144.379845,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Leontodon hispidus,L.,Asterales,Asteraceae,Leontodon,,NA,1197.5,365.6976744,F,H,No,ND,herb-nonweed,temperate deciduous forest,1018,10185,no,ND,ND
+Leonurus cardiaca,L.,Lamiales,Lamiaceae,Leonurus,,NA,888,322.093,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Lepidium subulatum,L.,Brassicales,Brassicaceae,Lepidium,,NA,707,179.4573643,F,NA,NA,PD,herb,matorral,1004,8043,no,PD,PD
+Leptochloa dubia,(Kunth) Nees,Poales,Poaceae,Leptochloa,,NA,913,333.7209302,F,H,NA,PD,herbaceous perennial,"hot semidesert, desert",931,5990,no,PD,PD
+Leptospermum erubescens,Schauer,Myrtales,Myrtaceae,Leptospermum,,NA,707.5,173.0620155,F,W,NA,PD,shrub,matorral,1002,7275,no,PD,PD
+Leucanthemum ircutianum,(Turcz.) Turcz. ex DC.,Asterales,Asteraceae,Leucanthemum,,NA,1007.5,235.0775194,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Leucanthemum vulgare,(Vaill.) Lam.,Asterales,Asteraceae,Leucanthemum,,NA,2824,999.2248062,F,H,No,ND,herb-weed,temperate deciduous forest,1019,10403,no,ND,ND
+Leymus cinereus,(Scribn. & Merr.) Á.Löve,Poales,Poaceae,Leymus,,NA,908.5,314.5348837,F,H,NA,PD,graminoid,temperate grassland,1025,11166,yes,PD,PD
+Leysera gnaphalodes,(L.) L.,Asterales,Asteraceae,Leysera,,NA,618,201.9379845,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Liatris aspera,Michx.,Asterales,Asteraceae,Liatris,,NA,999,237.9844961,F,H,No,PD,forb,temperate grassland,1024,10915,no,PD,PD
+Liatris punctata,Hook.,Asterales,Asteraceae,Liatris,,NA,1006.5,306.3953488,F,NA,NA,PD,forb,temperate grassland,1024,10919,yes,PD,PD
+Linaria vulgaris,Mill.,Lamiales,Plantaginaceae,Linaria,,NA,1799.5,642.4418605,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10500,yes,PD,PD
+Linum austriacum,L.,Malpighiales,Linaceae,Linum,,NA,879.5,330.0387597,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Linum lewisii,Pursh,Malpighiales,Linaceae,Linum,,NA,1104.5,380.4263566,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Linum perenne,L.,Malpighiales,Linaceae,Linum,,NA,1055.5,340.503876,F,H,NA,PD,herbaceous,"boreal, north-temperatured subalpine",1032,12590,no,PD,PD
+Linum pratense,(Norton) Small,Malpighiales,Linaceae,Linum,,NA,773,184.8837209,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Lotus corniculatus,L.,Fabales,Fabaceae,Lotus,,NA,2233,853.1007752,F,H,Yes,PY,herb-weed,temperate deciduous forest,1019,10505,no,PY,PY
+Lotus maritimus,L.,Fabales,Fabaceae,Lotus,,NA,1272,382.5581395,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Lupinus argenteus,Pursh,Fabales,Fabaceae,Lupinus,,NA,1146,429.8449612,NA,NA,NA,PY+PD,herb,montane forest,1037,12009,no,PY+PD,PY+PD
+Lupinus NA,,Fabales,Fabaceae,Lupinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Lupinus polyphyllus,Lindl.,Fabales,Fabaceae,Lupinus,,NA,2018,734.8837209,F,H,Yes,PY,forb,temperate grassland,1024,10944,no,PY,PY
+Lycium andersonii,A. Gray,Solanales,Solanaceae,Lycium,,NA,396,134.8837209,NA,NA,NA,PD,shrub,"hot semidesert, desert",928,5759,no,PD,PD
+Machaeranthera canescens,(Pursh) A.Gray,Asterales,Asteraceae,Machaeranthera,,NA,490.5,162.5968992,F,NA,No,NA,NA,NA,NA,NA,no,NA,NA
+Machaeranthera tanacetifolia,(Kunth) Nees,Asterales,Asteraceae,Machaeranthera,,NA,647,191.4728682,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Maireana aphylla,(R. Br.) Paul G. Wilson,Caryophyllales,Amaranthaceae,Maireana,,NA,930.5,310.6589147,F,W,NA,NA,NA,NA,NA,NA,no,NA,PD
+Maireana excavata,(J. M. Black) Paul G. Wilson,Caryophyllales,Amaranthaceae,Maireana,,NA,512.5,129.2635659,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Maireana rohrlachii,(Paul G. Wilson) Paul G. Wilson,Caryophyllales,Amaranthaceae,Maireana,,NA,485,111.2403101,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Malva moschata,L.,Malvales,Malvaceae,Malva,,NA,1636.5,480.8139535,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Malva sylvestris,L.,Malvales,Malvaceae,Malva,,NA,2000,774.4186047,F,H,NA,NA,NA,NA,NA,NA,no,PY,PY
+Manochlamys albicans,Aellen,Caryophyllales,Amaranthaceae,Manochlamys,,NA,446,153.1007752,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Medicago falcata,L.,Fabales,Fabaceae,Medicago,,NA,1418.5,530.0387597,F,H,Yes,PY,herb,matorral,1004,8106,yes,PY,PY
+Medicago lupulina,L.,Fabales,Fabaceae,Medicago,,NA,1900.5,732.3643411,F,H,Yes,PY,herb-weed,temperate deciduous forest,1019,10511,yes,PY,PY
+Medicago minima,(L.) L.,Fabales,Fabaceae,Medicago,,NA,1474,571.3178295,F,H,Yes,PY,herb,matorral,1004,8110,yes,PY,PY
+Medicago sativa,L.,Fabales,Fabaceae,Medicago,,NA,1895,734.496124,F,H,Yes,PY,herb,temperate desert,1029,11416,yes,PY,PY
+Melaleuca acuminata,F.Muell.,Myrtales,Myrtaceae,Melaleuca,,NA,533.5,121.5116279,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca calycina,R.Br.,Myrtales,Myrtaceae,Melaleuca,,NA,548,97.28682171,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca cucullata,Turcz.,Myrtales,Myrtaceae,Melaleuca,,NA,571,88.37209302,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca glaberrima,F.Muell.,Myrtales,Myrtaceae,Melaleuca,,NA,462,69.76744186,F,W,NA,PD,shrub,matorral,1002,7327,no,PD,PD
+Melaleuca hamata,Field. & G.A.Gardner,Myrtales,Myrtaceae,Melaleuca,,NA,577,144.9612403,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca leptospermoides,Schauer,Myrtales,Myrtaceae,Melaleuca,,NA,545.5,99.80620155,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca nematophylla,F.Muell. ex Craven,Myrtales,Myrtaceae,Melaleuca,,NA,517.5,110.6589147,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca pentagona,Labill.,Myrtales,Myrtaceae,Melaleuca,,NA,631.5,179.2635659,F,W,NA,PD,shrub,matorral,1002,7330,no,PD,PD
+Melaleuca suberosa,(Schauer) C.A.Gardner,Myrtales,Myrtaceae,Melaleuca,,NA,566,96.51162791,F,W,NA,PD,shrub,matorral,1002,7339,no,PD,PD
+Melaleuca uncinata,R.Br.,Myrtales,Myrtaceae,Melaleuca,,NA,801,249.2248062,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melaleuca undulata,Benth.,Myrtales,Myrtaceae,Melaleuca,,NA,589.5,111.8217054,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melica californica,Scribn.,Poales,Poaceae,Melica,,NA,1070,346.8992248,F,NA,NA,PD,herb,woodland,1040,12186,no,PD,PD
+Melica transsilvanica,Schur,Poales,Poaceae,Melica,,NA,952.5,280.8139535,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Melilotus albus,Medik.,Fabales,Fabaceae,Melilotus,,NA,1496,578.6821705,F,H,Yes,PY,weed,temperate grassland,1027,11259,yes,PY,PY
+Melilotus officinalis,(L.) Pall.,Fabales,Fabaceae,Melilotus,,NA,1685,641.4728682,F,H,Yes,PY,weed,temperate grassland,1027,11260,no,PY,PY
+Mentzelia aspera,L.,Cornales,Loasaceae,Mentzelia,,NA,566.5,199.0310078,NA,NA,NA,PD,Weed,Tropical Semievergreen Forest,917,4233,no,PD,PD
+Monarda citriodora,Cerv. ex Lag.,Lamiales,Lamiaceae,Monarda,,NA,893.5,254.8449612,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Moraea bellendenii,(Sweet) N.E.Br.,Asparagales,Iridaceae,Moraea,,NA,709.5,150.5813953,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Myoporum insulare,R.Br.,Lamiales,Scrophulariaceae,Myoporum,,NA,2636.5,959.1085271,F,W,NA,NA,NA,NA,NA,NA,no,PD,PD
+Myracrodruon urundeuva,Allemão,Sapindales,Anacardiaceae,Myracrodruon,,NA,1573.5,548.6434109,F,NA,No,"ND,PD",tree,"tropical savannas (dry woodlands,grasslands)",923,4988,no,"ND,PD","ND,PD"
+Myrsine africana,L.,Ericales,Primulaceae,Myrsine,,NA,1944,733.3333333,F,W,NA,PD,Shrub,Tropical Montane,910,2650,no,PD,PD
+Nassella pulchra,(Hitchc.) Barkworth,Poales,Poaceae,Nassella,,NA,1051,355.8139535,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Nassella viridula,(Trin.) Barkworth,Poales,Poaceae,Nassella,,NA,583,148.8372093,F,H,NA,PD,graminoid,temperate grassland,1025,11207,no,PD,PD
+Nuytsia floribunda,R.Br.,Santalales,Loranthaceae,Nuytsia,,NA,689,196.8992248,F,W,No,PD,tree,matorral,1001,6341,no,PD,PD
+Oenothera caespitosa,Gillies ex Hook. & Arn.,Myrtales,Onagraceae,Oenothera,,NA,NA,NA,NA,NA,NA,PD,herb,woodland,1040,12190,no,PD,PD
+Oenothera elata,Kunth,Myrtales,Onagraceae,Oenothera,,NA,2085,779.8449612,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Oenothera pallida,Douglas ex Lindl.,Myrtales,Onagraceae,Oenothera,,NA,949.5,327.3255814,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Onobrychis arenaria,(Kit.) DC.,Fabales,Fabaceae,Onobrychis,,NA,768,147.6744186,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Onobrychis viciifolia,Scop.,Fabales,Fabaceae,Onobrychis,,NA,1129,351.9379845,F,H,Yes,NA,NA,NA,NA,NA,no,PY,PY
+Ononis spinosa,(Wallr.) Briq.,Fabales,Fabaceae,Ononis,,NA,1094.5,292.0542636,NA,NA,NA,PY,herbaceous weed,"boreal, north-temperatured subalpine",1032,12639,no,PY,PY
+Ononis tridentata,L.,Fabales,Fabaceae,Ononis,,NA,759.5,200.1937984,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PY
+Origanum vulgare,L.,Lamiales,Lamiaceae,Origanum,,NA,1977.5,762.2093023,F,H,No,PD,herb-nonweed,temperate deciduous forest,1018,10218,yes,PD,PD
+Ornithogalum thyrsoides,Jacq.,Asparagales,Asparagaceae,Ornithogalum,,NA,1280,442.248062,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Oryzopsis hymenoides,(Roem. & Schult.) Ricker ex Piper,Poales,Poaceae,Oryzopsis,Graminoid,3.53,696,245.3488372,NA,NA,NA,PD,graminoid,temperate grassland,1025,11172,no,PD,PD
+Osteospermum sinuatum,(DC.) Norl.,Asterales,Asteraceae,Osteospermum,,NA,335,123.255814,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Othonna cylindrica,(Lam.) DC.,Asterales,Asteraceae,Othonna,,NA,300.5,97.86821705,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Oxytropis lambertii,Pursh,Fabales,Fabaceae,Oxytropis,,NA,531.5,165.3100775,NA,NA,NA,PY,herb,montane forest,1037,12013,no,PY,PY
+Panicum virgatum,L.,Poales,Poaceae,Panicum,,NA,1640,596.5116279,F,H,No,PD,Herbaceous/Shrub,Non-Saline Sands,1120,13589,no,PD,PD
+Papaver rhoeas,L.,Ranunculales,Papaveraceae,Papaver,,NA,1359,493.0232558,F,H,NA,MPD,herb-weed,temperate deciduous forest,1019,10531,no,MPD,MPD
+Pappophorum NA,,Poales,Poaceae,Pappophorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Pastinaca sativa,L.,Apiales,Apiaceae,Pastinaca,,NA,1148,375.5813953,F,NA,NA,"MD,MPD",herb-weed,temperate deciduous forest,1019,10532,no,"MD,MPD","MD,MPD"
+Patersonia NA,,Asparagales,Iridaceae,Patersonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Patersonia occidentalis,R.Br.,Asparagales,Iridaceae,Patersonia,,NA,1207.5,364.1472868,F,H,NA,PD,herb,matorral,1004,8165,yes,PD,PD
+Pelargonium capitatum,(L.) L'Hér.,Geraniales,Geraniaceae,Pelargonium,,NA,1003.5,337.4031008,F,variable,No,PY,shrub,matorral,1002,7373,no,PY,PY
+Pelargonium cucullatum,(L.) L'Hér.,Geraniales,Geraniaceae,Pelargonium,,NA,1525,482.1705426,F,W,No,NA,NA,NA,NA,NA,no,NA,NA
+Penstemon angustifolius,Nutt. ex Pursh,Lamiales,Plantaginaceae,Penstemon,,NA,572,148.8372093,NA,NA,NA,PD,forb,temperate grassland,1024,10986,no,PD,PD
+Penstemon comarrhenus,A. Gray,Lamiales,Plantaginaceae,Penstemon,,NA,383.5,95.93023256,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Penstemon eatonii,A. Gray,Lamiales,Plantaginaceae,Penstemon,,NA,670.5,217.6356589,NA,NA,NA,PD,herb,montane forest,1037,12021,yes,PD,PD
+Penstemon NA,,Lamiales,Plantaginaceae,Penstemon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Penstemon palmeri,A. Gray,Lamiales,Plantaginaceae,Penstemon,,NA,484.5,152.9069767,NA,NA,NA,PD,herb,temperate desert,1029,11430,no,PD,PD
+Penstemon speciosus,Douglas ex Lindl.,Lamiales,Plantaginaceae,Penstemon,,NA,924,315.8914729,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Penstemon strictus,Benth.,Lamiales,Plantaginaceae,Penstemon,,NA,584.5,151.3565891,NA,NA,NA,PD,herb,temperate desert,1029,11433,no,PD,PD
+Pentzia incana,(Thunb.) Kuntze,Asterales,Asteraceae,Pentzia,,NA,712,251.1627907,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Persicaria pensylvanica,(L.) M. Gómez,Caryophyllales,Polygonaceae,Persicaria,,NA,904.5,268.4108527,NA,NA,NA,PD,herb-weed,temperate deciduous forest,1019,10551,no,PD,PD
+Phacelia crenulata,Torr. ex S. Watson,Boraginales,Boraginaceae,Phacelia,,NA,765,278.2945736,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Pharnaceum confertum,Eckl. & Zeyh.,Caryophyllales,Molluginaceae,Pharnaceum,,NA,322,100.3875969,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Phebalium tuberculosum,Benth.,Sapindales,Rutaceae,Phebalium,,NA,415.5,95.54263566,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Phlomoides tuberosa,(L.) Moench,Lamiales,Lamiaceae,Phlomoides,,NA,723.5,197.0930233,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pimpinella major,(L.) Huds.,Apiales,Apiaceae,Pimpinella,,NA,1261.5,338.5658915,NA,NA,NA,PD,herb-nonweed,temperate deciduous forest,1018,10229,no,PD,PD
+Pimpinella saxifraga,L.,Apiales,Apiaceae,Pimpinella,,NA,1558,487.5968992,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Pinus halepensis,Mill.,Pinales,Pinaceae,Pinus,,NA,1774,674.8062016,F,W,NA,ND,tree,matorral,1001,6354,yes,ND,ND
+Pinus pinaster,Aiton,Pinales,Pinaceae,Pinus,,NA,1559.5,562.2093023,F,W,NA,PD,tree,matorral,1001,6357,no,PD,PD
+Plantago albicans,L.,Lamiales,Plantaginaceae,Plantago,,NA,690.5,267.6356589,F,NA,NA,PD,herbaceous annuals,"hot semidesert, desert",932,6154,yes,PD,PD
+Plantago lanceolata,L.,Lamiales,Plantaginaceae,Plantago,,NA,2455.5,950.9689922,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10540,no,PD,PD
+Plantago media,L.,Lamiales,Plantaginaceae,Plantago,,NA,1438.5,462.2093023,NA,NA,NA,PD,herb-weed,temperate deciduous forest,1019,10542,no,PD,PD
+Plantago ovata,Forssk.,Lamiales,Plantaginaceae,Plantago,,NA,679.5,263.372093,F,H,NA,PD,herbaceous annuals,"hot semidesert, desert",932,6158,yes,PD,PD
+Plantago patagonica,Jacq.,Lamiales,Plantaginaceae,Plantago,,NA,1090.5,399.8062016,NA,NA,NA,PD,herbaceous annuals weed,"hot semidesert, desert",932,6160,yes,PD,PD
+Poa angustifolia,L.,Poales,Poaceae,Poa,,NA,1611.5,591.6666667,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Poa annua,L.,Poales,Poaceae,Poa,,NA,2442,943.0232558,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10544,no,PD,PD
+Poa compressa,L.,Poales,Poaceae,Poa,,NA,1529.5,542.0542636,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Poa fendleriana,(Steud.) Vasey,Poales,Poaceae,Poa,,NA,1443,520.15503880000006,F,NA,No,NA,NA,NA,NA,NA,no,NA,NA
+Poa pratensis,L.,Poales,Poaceae,Poa,,NA,2195,823.6434109,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10545,yes,PD,PD
+Poa spiciformis,(Steud.) Hauman & Parodi,Poales,Poaceae,Poa,,NA,951,301.9379845,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Podalyria sericea,R.Br.,Fabales,Fabaceae,Podalyria,,NA,1151.5,338.5658915,F,W,Yes,PY,shrub,matorral,1002,7451,no,PY,PY
+Podospermum canum,C.A.Mey.,Asterales,Asteraceae,Podospermum,,NA,673,181.3953488,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Poincianella pyramidalis,(Tul.) L.P.Queiroz,Fabales,Fabaceae,Poincianella,,NA,1057,258.1395349,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Potentilla argentea,L.,Rosales,Rosaceae,Potentilla,,NA,1810,619.7674419,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Potentilla pensylvanica,L.,Rosales,Rosaceae,Potentilla,,NA,819,274.0310078,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Prunella vulgaris,L.,Lamiales,Lamiaceae,Prunella,,NA,2668,1029.844961,F,H,No,PD,forb,temperate grassland,1024,11016,no,PD,PD
+Pseudosclerochloa rupestris,(With.) Tzvelev,Poales,Poaceae,Pseudosclerochloa,,NA,1524.5,563.7596899,NA,NA,NA,PD,herb,temperate desert,1029,11434,yes,PD,PD
+Psilocaulon dinteri,Schwantes,Caryophyllales,Aizoaceae,Psilocaulon,,NA,215,76.74418605,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Psoralea tenuiflora,Pursh,Fabales,Fabaceae,Psoralea,,NA,666,163.9534884,NA,NA,NA,PY,forb,temperate grassland,1024,11019,no,PY,PY
+Pteronia divaricata,(P. Bergius) Less.,Asterales,Asteraceae,Pteronia,,NA,373,125.9689922,F,W,NA,PD,herbaceous perennial,"hot semidesert, desert",931,6042,no,PD,PD
+Pteronia empetrifolia,DC.,Asterales,Asteraceae,Pteronia,,NA,287,54.65116279,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia glomerata,L.f.,Asterales,Asteraceae,Pteronia,,NA,564.5,164.1472868,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia incana,(Burm.) DC.,Asterales,Asteraceae,Pteronia,,NA,501.5,175.7751938,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia onobromoides,DC.,Asterales,Asteraceae,Pteronia,,NA,363.5,121.124031,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia ovalifolia,DC.,Asterales,Asteraceae,Pteronia,,NA,498.5,132.751938,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia pallens,L.f.,Asterales,Asteraceae,Pteronia,,NA,582,173.6434109,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Pteronia paniculata,Thunb.,Asterales,Asteraceae,Pteronia,,NA,525.5,179.2635659,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Purshia tridentata,(Pursh) DC.,Rosales,Rosaceae,Purshia,,NA,1009.5,341.6666667,F,W,Yes,PD,shrub,woodland,1039,12144,yes,PD,PD
+Quercus coccifera,L.,Fagales,Fagaceae,Quercus,,NA,751,280.2325581,F,W,No,ND,shrub,matorral,1002,7485,no,ND,ND
+Rapistrum perenne,(L.) All.,Brassicales,Brassicaceae,Rapistrum,,NA,1370,389.1472868,F,NA,NA,NA,NA,NA,NA,NA,no,NA,PD
+Ratibida columnifera,(Nutt.) Wooton & Standl.,Asterales,Asteraceae,Ratibida,,NA,874,300.3875969,F,H,NA,PD,forb,temperate grassland,1024,11026,no,PD,PD
+Ratibida pinnata,(Vent.) Barnhart,Asterales,Asteraceae,Ratibida,,NA,1109,303.1007752,F,H,No,PD,forb,temperate grassland,1024,11027,yes,PD,PD
+Reseda luteola,L.,Brassicales,Resedaceae,Reseda,,NA,1271,492.6356589,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10560,no,PD,PD
+Restio NA,,Poales,Restionaceae,Restio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Rhamnus lycioides,L.,Rosales,Rhamnaceae,Rhamnus,,NA,640,237.2093023,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Rhus trilobata,Nutt.,Sapindales,Anacardiaceae,Rhus,,NA,999,350.7751938,NA,NA,NA,PY+PD,shrub,woodland,1039,12145,yes,PY+PD,PY+PD
+Ribes cereum,Douglas,Saxifragales,Grossulariaceae,Ribes,,NA,1214,428.2945736,F,W,NA,MPD,shrub,montane forest,1036,11949,no,MPD,MPD
+Roepera morgsana,(L.) Beier & Thulin,Zygophyllales,Zygophyllaceae,Roepera,,NA,407.5,136.2403101,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Rosmarinus officinalis,L.,Lamiales,Lamiaceae,Rosmarinus,,NA,1839,711.627907,NA,NA,NA,PD,shrub,matorral,1002,7521,no,PD,PD
+Rudbeckia hirta,L.,Asterales,Asteraceae,Rudbeckia,,NA,1448.5,524.2248062,F,H,No,PD,herb-nonweed,temperate deciduous forest,1018,10252,no,PD,PD
+Rumex acetosa,L.,Caryophyllales,Polygonaceae,Rumex,,NA,1982.5,760.2713178,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10563,no,PD,PD
+Rumex acetosella,L.,Caryophyllales,Polygonaceae,Rumex,,NA,2833,1093.79845,F,H,No,PD,herb-weed,temperate deciduous forest,1019,10564,no,PD,PD
+Rumex thyrsiflorus,Fingerh.,Caryophyllales,Polygonaceae,Rumex,,NA,1447,518.9922481,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Ruschia aggregata,L. Bolus,Caryophyllales,Aizoaceae,Ruschia,,NA,166.5,26.1627907,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Ruschia NA,,Caryophyllales,Aizoaceae,Ruschia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Ruschia rubricaulis,L. Bolus,Caryophyllales,Aizoaceae,Ruschia,,NA,692.5,157.1705426,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Ruschia versicolor,L. Bolus,Caryophyllales,Aizoaceae,Ruschia,,NA,139,25.58139535,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Rytidosperma virescens,(É.Desv.) Nicora,Poales,Poaceae,Rytidosperma,,NA,828,262.4031008,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Salvia africana-caerulea,L.,Lamiales,Lamiaceae,Salvia,,NA,811,237.5968992,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Salvia austriaca,Jacq.,Lamiales,Lamiaceae,Salvia,,NA,838.5,170.3488372,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Salvia columbariae,Benth.,Lamiales,Lamiaceae,Salvia,,NA,763.5,275.7751938,F,H,NA,PD,herbaceous annuals,"hot semidesert, desert",932,6173,no,PD,PD
+Salvia nemorosa,L.,Lamiales,Lamiaceae,Salvia,,NA,1409,503.875969,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Salvia pratensis,L.,Lamiales,Lamiaceae,Salvia,,NA,1143.5,343.6046512,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Sanguisorba minor,Scop.,Rosales,Rosaceae,Sanguisorba,,NA,1207,466.6666667,F,H,No,NA,NA,NA,NA,NA,no,PD,PD
+Sanguisorba officinalis,L.,Rosales,Rosaceae,Sanguisorba,,NA,1790,622.4806202,NA,NA,NA,PD,herb-nonweed,temperate deciduous forest,1018,10260,yes,PD,PD
+Saponaria officinalis,L.,Caryophyllales,Caryophyllaceae,Saponaria,,NA,1381.5,462.2093023,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10569,no,PD,PD
+Sarcobatus vermiculatus,(Hook.) Torr.,Caryophyllales,Sarcobataceae,Sarcobatus,,NA,519,175.5813953,F,W,No,PD,shrub,temperate desert,1028,11367,yes,PD,PD
+Scabiosa ochroleuca,L.,Dipsacales,Caprifoliaceae,Scabiosa,,NA,812.5,261.8217054,NA,NA,NA,PD,herb-nonweed,temperate deciduous forest,1018,10262,no,PD,PD
+Schizachyrium scoparium,(Michx.) Nash,Poales,Poaceae,Schizachyrium,,NA,1062.5,364.9224806,F,H,No,PD,graminoid,temperate grassland,1025,11184,no,PD,PD
+Scolochloa festucacea,(Willd.) Link,Poales,Poaceae,Scolochloa,,NA,1358,492.248062,NA,NA,NA,PD,Herbaceous?,Aquatic,1108,13221,no,PD,PD
+Securigera varia,(L.) Lassen,Fabales,Fabaceae,Securigera,,NA,1529,581.0077519,NA,NA,NA,PY,herb-weed,temperate deciduous forest,1019,10411,no,PY,PY
+Selinum carvifolia,(L.) L.,Apiales,Apiaceae,Selinum,,NA,1068.5,238.5658915,NA,NA,NA,MPD,herb-nonweed,temperate deciduous forest,1018,10269,no,MPD,MPD
+Senna artemisioides,Isely,Fabales,Fabaceae,Senna,,NA,700.5,247.4806202,F,W,NA,PY,shrub,matorral,1002,7552,no,PY,PY
+Senna glutinosa,(DC.) Randell,Fabales,Fabaceae,Senna,,NA,987,325.5813953,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Setaria macrostachya,Kunth,Poales,Poaceae,Setaria,,NA,1254.5,462.2093023,F,H,NA,PD,graminoid,temperate grassland,1025,11186,no,PD,PD
+Silaum silaus,(L.) Schinz & Thell.,Apiales,Apiaceae,Silaum,,NA,903.5,257.1705426,NA,NA,NA,MPD,herb-nonweed,temperate deciduous forest,1018,10275,no,MPD,MPD
+Silene dioica,(L.) Clairv.,Caryophyllales,Caryophyllaceae,Silene,,NA,2309,809.6899225,F,H,No,PD,herb,temperate deciduous forest,1017,9973,no,PD,PD
+Silene latifolia,Poir.,Caryophyllales,Caryophyllaceae,Silene,,NA,1292.5,412.9844961,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10506,no,PD,PD
+Silene viscosa,(L.) Pers.,Caryophyllales,Caryophyllaceae,Silene,,NA,957,328.6821705,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Silene vulgaris,(Moench) Garcke,Caryophyllales,Caryophyllaceae,Silene,,NA,1466.5,497.0930233,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Silphium perfoliatum,L.,Asterales,Asteraceae,Silphium,,NA,932.5,206.0077519,F,H,NA,PD,forb,temperate grassland,1024,11046,no,PD,PD
+Solanum orbiculatum,Dunal,Solanales,Solanaceae,Solanum,,NA,499,135.6589147,NA,NA,NA,PD,shrub,matorral,1002,7568,no,PD,PD
+Solidago rigida,L.,Asterales,Asteraceae,Solidago,,NA,901.5,240.8914729,F,H,No,PD,forb,temperate grassland,1024,11058,no,PD,PD
+Sorghastrum nutans,(L.) Nash,Poales,Poaceae,Sorghastrum,,NA,1151.5,417.248062,F,H,No,PD,graminoid,temperate grassland,1025,11188,no,PD,PD
+Spartina pectinata,Bosc ex Link,Poales,Poaceae,Spartina,,NA,852.5,250.1937984,F,H,NA,PD,graminoid,temperate grassland,1025,11195,yes,PD,PD
+Sphaeralcea ambigua,A. Gray,Malvales,Malvaceae,Sphaeralcea,,NA,540.5,189.3410853,NA,NA,NA,PY,herbaceous perennial,"hot semidesert, desert",931,6049,no,PY,PY
+Sphaeralcea coccinea,(Nutt.) Rydb.,Malvales,Malvaceae,Sphaeralcea,,NA,662.5,212.2093023,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Sphaeralcea grossulariifolia,(Hook. & Arn.) Rydb.,Malvales,Malvaceae,Sphaeralcea,,NA,311.5,80.03875969,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Sphaeralcea munroana,(Douglas ex Lindl.) Spach ex A.Gray,Malvales,Malvaceae,Sphaeralcea,,NA,719,227.9069767,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Sphaeralcea parvifolia,A. Nelson,Malvales,Malvaceae,Sphaeralcea,,NA,323.5,74.6124031,NA,NA,NA,NA,NA,NA,NA,NA,no,PY,PY
+Sporobolus airoides,(Torr.) Torr.,Poales,Poaceae,Sporobolus,,NA,1573,590.6976744,F,H,NA,PD,herb,temperate desert,1029,11451,no,PD,PD
+Sporobolus cryptandrus,(Torr.) A.Gray,Poales,Poaceae,Sporobolus,,NA,892.5,325.3875969,F,H,No,PD,graminoid,temperate grassland,1025,11192,no,PD,PD
+Sporobolus NA,,Poales,Poaceae,Sporobolus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Stachys officinalis,(L.) Trevis.,Lamiales,Lamiaceae,Stachys,,5,1051.5,386.627907,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Stachys recta,L.,Lamiales,Lamiaceae,Stachys,,NA,1157.5,338.1782946,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Stachys rugosa,Aiton,Lamiales,Lamiaceae,Stachys,,NA,485.5,171.124031,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Stipa capillata,L.,Poales,Poaceae,Stipa,,NA,969,358.9147287,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Stipa comata,Trin. & Rupr.,Poales,Poaceae,Stipa,NA,NA,NA,NA,F,H,NA,PD,graminoid,temperate grassland,1025,11197,no,PD,PD
+Stipa lemmonii,(Vasey) Scribn.,Poales,Poaceae,Stipa,Graminoid,NA,1282.5,391.2790698,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Stipa tenacissima,L.,Poales,Poaceae,Stipa,,NA,1164.5,450.9689922,F,H,NA,PD,herb,matorral,1004,8277,yes,PD,PD
+Stipa thurberiana,Piper,Poales,Poaceae,Stipa,Graminoid,2.85,786,234.496124,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Stipagrostis ciliata,(Desf.) De Winter,Poales,Poaceae,Stipagrostis,,NA,1028,393.7984496,F,NA,NA,PD,herb,matorral,1004,8278,no,PD,PD
+Stoeberia beetzii,(Dinter) Dinter & Schwantes,Caryophyllales,Aizoaceae,Stoeberia,,NA,332,115.1162791,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Stylobasium spathulatum,Desf.,Fabales,Surianaceae,Stylobasium,,NA,403,88.75968992,NA,NA,NA,PY,shrub,matorral,1002,7594,yes,PY,PY
+Symphyotrichum chilense,(Nees) G.L.Nesom,Asterales,Asteraceae,Symphyotrichum,,NA,1619,609.3023256,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tanacetum corymbosum,(L.) Sch.Bip.,Asterales,Asteraceae,Tanacetum,,NA,956,318.9922481,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Templetonia retusa,(Vent.) R.Br.,Fabales,Fabaceae,Templetonia,,NA,683,203.4883721,F,NA,Yes,PY,shrub,matorral,1002,7605,no,PY,PY
+Tetragonia echinata,Aiton,Caryophyllales,Aizoaceae,Tetragonia,,NA,699.5,242.8294574,F,NA,NA,PD,herbaceous annuals,"hot semidesert, desert",932,6193,no,PD,PD
+Tetragonia fruticosa,L.,Caryophyllales,Aizoaceae,Tetragonia,,NA,577.5,201.744186,F,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Teucrium capitatum,L.,Lamiales,Lamiaceae,Teucrium,,NA,853,319.379845,F,W,NA,NA,NA,NA,NA,NA,no,NA,NA
+Thelesperma filifolium,(Hook.) A.Gray,Asterales,Asteraceae,Thelesperma,,NA,841.5,218.7984496,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Themeda triandra,Forssk.,Poales,Poaceae,Themeda,,NA,2409,881.0077519,F,H,No,PD,herbaceous weed,"tropical savannas (dry woodlands, grasslands)",926,5569,yes,PD,PD
+Thryptomene baeckeacea,F.Muell.,Myrtales,Myrtaceae,Thryptomene,,NA,431.5,90.11627907,F,W,NA,PD,shrub,matorral,1002,7625,no,PD,PD
+Thymus odoratissimus,Mill.,Lamiales,Lamiaceae,Thymus,,NA,582,45.34883721,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Thymus zygis,L.,Lamiales,Lamiaceae,Thymus,,NA,792,294.9612403,F,NA,NA,PD,shrub,matorral,1002,7638,no,PD,PD
+Trachyandra muricata,(L.f.) Kunth,Asparagales,Asphodelaceae,Trachyandra,,NA,514,183.7209302,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tradescantia occidentalis,(Britton) Smyth,Commelinales,Commelinaceae,Tradescantia,,NA,737.5,241.2790698,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tragopogon dubius,Scop.,Asterales,Asteraceae,Tragopogon,,NA,1389.5,505.6202,F,H,No,NA,NA,NA,NA,NA,no,NA,NA
+Tragopogon pratensis,L.,Asterales,Asteraceae,Tragopogon,,NA,1386,452.3255814,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tribolium hispidum,(Thunb.) Desv.,Poales,Poaceae,Tribolium,,NA,563,169.379845,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tribolium uniolae,(L.f.) Renvoize,Poales,Poaceae,Tribolium,NA,NA,NA,NA,F,H,NA,NA,NA,NA,NA,NA,no,NA,NA
+Trichloris crinita,(Lag.) Parodi,Poales,Poaceae,Trichloris,,NA,707,234.8837209,F,H,No,ND,herbaceous perennial,"hot semidesert, desert",931,6057,yes,ND,ND
+Trifolium arvense,L.,Fabales,Fabaceae,Trifolium,,NA,2291.5,841.6666667,F,NA,Yes,PY,herb-weed,temperate deciduous forest,1019,10611,yes,PY,PY
+Trifolium bifidum,A.Gray,Fabales,Fabaceae,Trifolium,,NA,1385.5,503.2945736,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Trifolium campestre,Schreb.,Fabales,Fabaceae,Trifolium,,NA,1503,544.5736434,F,H,Yes,PY,herb-weed,temperate deciduous forest,1019,10612,no,PY,PY
+Trifolium dubium,Sibth.,Fabales,Fabaceae,Trifolium,,NA,2567,894.5736434,F,H,Yes,PY+PD,herb,matorral,1004,8342,no,PY+PD,PY+PD
+Trifolium pratense,L.,Fabales,Fabaceae,Trifolium,,NA,2442,943.0232558,F,H,Yes,PY,herb,matorral,1004,8352,yes,PY,PY
+Trifolium willdenovii,Spreng.,Fabales,Fabaceae,Trifolium,,NA,1400,509.3023256,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Triodia basedowii,E.Pritz.,Poales,Poaceae,Triodia,,0.9684,738,234.8837209,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Triodia epactia,S.W.L.Jacobs,Poales,Poaceae,Triodia,,NA,687,182.1705426,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Triodia pungens,R.Br.,Poales,Poaceae,Triodia,,1.1412,1085,355.0387597,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Triodia wiseana,C.A.Gardner,Poales,Poaceae,Triodia,,NA,500,109.3023256,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tripteris oppositifolia,(Aiton) B.Nord.,Asterales,Asteraceae,Tripteris,,NA,NA,NA,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Tripteris sinuata,DC.,Asterales,Asteraceae,Tripteris,,NA,340.5,121.124031,F,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Ursinia anthemoides,(L.) Poir.,Asterales,Asteraceae,Ursinia,,NA,641,232.5581395,F,NA,NA,PD,herb,matorral,1004,8369,yes,PD,PD
+Verbascum densiflorum,Bertol.,Lamiales,Scrophulariaceae,Verbascum,,NA,1281,339.9224806,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,PD
+Verbascum nigrum,L.,Lamiales,Scrophulariaceae,Verbascum,,NA,1419.5,429.6511628,NA,NA,NA,PD,herb-nonweed,temperate deciduous forest,1018,10308,no,PD,PD
+Verbena bracteata,Cav. ex Lag. & Rodr.,Lamiales,Verbenaceae,Verbena,,NA,1389,511.2403101,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Verbena hastata,L.,Lamiales,Verbenaceae,Verbena,,NA,1225.5,402.5193798,NA,NA,NA,PD,forb,temperate grassland,1024,11084,no,PD,PD
+Verbena officinalis,L.,Lamiales,Verbenaceae,Verbena,,NA,2450.5,945.5426357,F,H,NA,PD,herb-weed,temperate deciduous forest,1019,10623,yes,PD,PD
+Verbena stricta,Vent.,Lamiales,Verbenaceae,Verbena,,NA,769.5,180.4263566,NA,NA,NA,PD,forb,temperate grassland,1024,11085,no,PD,PD
+Verbesina encelioides,(Cav.) Benth. & Hook.f. ex A.Gray,Asterales,Asteraceae,Verbesina,,NA,1056,404.6511628,F,H,NA,PD,herbaceous weed,"tropical savannas (dry woodlands, grasslands)",926,5586,no,PD,PD
+Vicia americana,Willd.,Fabales,Fabaceae,Vicia,,NA,1897,717.0542636,C,H,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Vicia villosa,Roth,Fabales,Fabaceae,Vicia,,NA,1473,570.9302326,C,H,Yes,PY,herb,matorral,1004,8388,no,PY,PY
+Vulpia microstachys,(Nutt.) Munro,Poales,Poaceae,Vulpia,,NA,1638,598.4496124,F,H,NA,NA,NA,NA,NA,NA,no,PD,PD
+Vulpia octoflora,(Walter) Rydb.,Poales,Poaceae,Vulpia,,NA,1254.5,482.751938,F,H,NA,PD,weed,temperate grassland,1027,11243,no,PD,PD
+Wachendorfia paniculata,Burm.,Commelinales,Haemodoraceae,Wachendorfia,,NA,726,210.4651163,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Waitzia nitida,(Lindl.) Paul G.Wilson,Asterales,Asteraceae,Waitzia,,NA,592,145.3488372,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA
+Wiborgia mucronata,(L.f.) Druce,Fabales,Fabaceae,Wiborgia,,NA,437,121.7054264,F,NA,Yes,NA,NA,NA,NA,NA,no,NA,NA
+Yucca glauca,Nutt.,Asparagales,Asparagaceae,Yucca,,NA,723.5,197.0930233,F,H,NA,PD,forb,temperate grassland,1024,11100,no,PD,PD

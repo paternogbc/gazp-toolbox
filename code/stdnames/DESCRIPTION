@@ -1,0 +1,23 @@
+Package: stdnames
+Title: Tools to Standardize Plant Names In Comparative Datasets
+Version: 0.0.1
+Authors@R: 
+    person(given = "Gustavo",
+           family = "Paterno",
+           role = c("aut", "cre"),
+           email = "paternogbc@gmail.com",
+           comment = c(ORCID = "0000-0001-9719-3037"))
+Description: A reproducible protocol to standardize plant names following 
+    The Plant List database.
+License: GPL-3
+Suggests: 
+Depends: 
+  R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    taxonlookup,
+    Taxonstand
+Language: en-US

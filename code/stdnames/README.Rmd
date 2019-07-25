@@ -1,0 +1,54 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# stdnames
+
+<!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/stdnames)](https://cran.r-project.org/package=stdnames)
+<!-- badges: end -->
+
+A reproducible protocol to standardize plant names following The Plant List database.
+
+## Installation (development version)
+
+devtoolss
+``` r
+devtools::install_github(repo = "paternogbc/gazp-toolbox", subdir = "stdnames")
+```
+
+## Example
+
+
+```{r example}
+library(stdnames)
+## basic example code
+library(stdnames)
+
+my_data <- species_data
+# Stanardize species names within a comparative dataset
+# First check and fix morphotypes
+# check morphotypes
+mf <- fix_morphotype(x = my_data$species)
+mf[mf$morphotype == "yes", ]
+
+# Replace morphotype names
+my_data$species <- mf$corrected_binomial
+
+# Run protocol to standardize plant names
+out <- std_names(x = my_data, species_column = "species", id_label = "ID")
+
+out$std
+```
+
