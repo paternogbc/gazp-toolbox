@@ -10,7 +10,7 @@ higher_tax(x)
 \item{x}{A character vector with plant names.}
 }
 \value{
-A list with the following components:
+A data.frame with the following components:
 \itemize{
 \item{\strong{binomial}} The original species name provided.
 \item{\strong{genus}} The genus name.

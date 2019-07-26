@@ -312,7 +312,9 @@ std_names <- function(x, species_column, id_label = "ID_",
   s_df$id_names <- spn_id$id_names
 
   # Run fuzz muchting with TPL
-  sp.tpl       <- Taxonstand::TPL(splist = spn, infra = infra)
+  sp.tpl       <- Taxonstand::TPL(splist = spn_id$original_binomial,
+                                  infra = infra, max.distance = max.distance,
+                                  diffchar = diffchar, version = version)
   tpl_warnings <- warnings()
 
   # add id names to tpl output
