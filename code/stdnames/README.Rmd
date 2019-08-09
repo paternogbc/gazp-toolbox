@@ -23,8 +23,9 @@ A reproducible protocol to standardize plant names following The Plant List data
 
 ## Installation (development version)
 
-devtoolss
+
 ``` r
+devtools::install_github("wcornwell/taxonlookup")
 devtools::install_github(repo = "paternogbc/gazp-toolbox", subdir = "code/stdnames")
 ```
 
@@ -32,11 +33,11 @@ devtools::install_github(repo = "paternogbc/gazp-toolbox", subdir = "code/stdnam
 
 
 ```{r example}
-library(stdnames)
 ## basic example code
 library(stdnames)
 
-my_data <- species_data
+  my_data <- species_data
+
 # Stanardize species names within a comparative dataset
 # First check and fix morphotypes
 # check morphotypes
@@ -44,42 +45,22 @@ mf <- fix_morphotype(x = my_data$species)
 mf[mf$morphotype == "yes", ]
 
 # Replace morphotype names
-my_data$species <- mf$corrected_binomial
+my_data$species <- mf$corrected_name
 
-# Run protocol to standardize plant names
-out <- std_names(x = my_data, species_column = "species", id_label = "ID")
+# Run protocol to standardize plant names (trai_columns indicate columns you want to keep)
+out <- std_names(x = my_data, species_column = "species", trait_columns = "var_num")
 
-# Your original dataset plus corrected names (tpl_binomial)
-# Remove head() for the complete output
-head(out$std)
+# Clean list of corrected names
+out$corrected_list
 
-# Only submitted/corrected names
-head(out$std_names)
+# List of unmacthed names
+out$unmatched_list
 
-# Complete output (with details on name standardization)
-head(out$tpl_all)
+# For detailed output (see out$detailed_output)
+# e.g. which species were corrected automatically?
+out$detailed_output$which_corrected
 
-# After removing duplicated names
-head(out$tpl_clean)
-
-# A higher taxonomy for the clean species list
-head(out$taxonomy_clean)
-
-# Names that failed to match the plant list
-# In this case all names were included!
-out$which_fail
-
-# Names that were automatically corrected
-# You must check if this is correct!
-out$which_corrected
-
-# Duplicated names after standardization
-out$which_duplicated
-
-# The complete output from TPL fuzzy matching
-head(out$raw_tpl_out)
-
-# Source data with unique identifiers for each row in the data.frame
-head(out$source_data)
+# e.g. which species failed?
+out$detailed_output$which_fail_name
 ```
 
