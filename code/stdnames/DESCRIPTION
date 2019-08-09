@@ -19,5 +19,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
 Imports: 
     taxonlookup,
-    Taxonstand
+    Taxonstand,
+    crul,
+    xml2
 Language: en-US

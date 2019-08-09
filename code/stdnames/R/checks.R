@@ -1,3 +1,28 @@
+#' Remove unecessary white spaces from plant names.
+#'
+#' @param x A character vector with plant names.
+#'
+#' @return The names provided after checking and removing for
+#' Leading/Trailing and unecessary white spaces on names.
+#' @export
+#'
+#' @examples
+#' library(stdnames)
+#' sp <- c("Mimosa tenuiflora ", "Yucca   glauca", " Eucalyptus angulosa")
+#' white_space(sp)
+white_space <- function(x) {
+  if (class(x) != "character") {
+    stop("x must be a character vector!")
+  }
+  x1 <- x
+  x2 <- trimws(x1)
+  x3 <- gsub("\\s+"," ", x2)
+  if(!identical(x1, x2) & !identical(x2, x3)) {
+    message("Leading/Trailing or unecessary white spaces were removed from names")
+  }
+  return(x3)
+}
+
 #' Perform basic checks on a species list and create species unique id.
 #'
 #' @param x A character vector specifying the species list, each element including
@@ -33,6 +58,10 @@ make_id <- function(x, label = "id_") {
       "`Genus_epithet`"
     )
   }
+  
+  ## Check and remove white spaces
+  x <- white_space(x)
+  
   ## Generate unique id_names for each name provided!
   id_names <- paste(
     label,
@@ -43,7 +72,7 @@ make_id <- function(x, label = "id_") {
     )
   res <- data.frame(
     id_names = id_names,
-    original_binomial = x,
+    original_name = x,
     stringsAsFactors = FALSE
   )
   return(res)
@@ -52,14 +81,19 @@ make_id <- function(x, label = "id_") {
 # Function to parse names provided into (Genus, epithet).
 #' parse_names()
 #'
-#' @param x A character vector specifying the species list, each element including
-#'  genus and specific epithet
+#' @param x A character vector specifying a list of plant names, each element 
+#' including at least genus and epithet, but infra ranks (var.) can also be 
+#' provided.
 #'
 #' @return A data.frame with the following components:
 #' \itemize{
-#'   \item{\strong{original_binomial}} The original names provided in \code{x}.
+#'   \item{\strong{original_name}} The original names provided in \code{x}.
 #'   \item{\strong{original_genus}} The parsed Genus name extracted from \code{x}.
 #'   \item{\strong{original_epi}} The parsed Epithet name extracted from \code{x}.
+#'   \item{\strong{original_rank}} The parsed infraspecific rank abbreviation 
+#'   extracted from \code{x}.
+#'   \item{\strong{original_infra}} The parsed Infraspecific name extracted from
+#'    \code{x}.
 #' }
 #'
 #' @export
@@ -69,21 +103,21 @@ make_id <- function(x, label = "id_") {
 #' sp <- c("Mimosa tenuiflora", "Eucalyptus_lehmannii", "Yucca glauca")
 #' parse_names(x = sp)
 parse_names <- function(x) {
+  
   x <- make_id(x = x)
-  n <- nrow(x)
-  genus <- sapply(strsplit(x$original_binomial, split = " "), FUN = `[`, 1)
-  epi <- sapply(strsplit(x$original_binomial, split = " "), FUN = `[`, 2)
+  genus  <- sapply(strsplit(x$original_name, split = " "), FUN = `[`, 1)
+  epi    <- sapply(strsplit(x$original_name, split = " "), FUN = `[`, 2)
+  sub_t  <- sapply(strsplit(x$original_name, split = " "), FUN = `[`, 3)
+  sub_n  <- sapply(strsplit(x$original_name, split = " "), FUN = `[`, 4)
   res <- data.frame(
-    original_binomial = x$original_binomial,
-    original_genus = genus,
-    original_epi = epi,
+    name = x$original_name,
+    genus = genus,
+    epi = epi,
+    rank = sub_t,
+    infra = sub_n,
     stringsAsFactors = FALSE
   )
-  ngen <- length(unique(genus))
-  message(paste(
-    n, "unique binomial names and",
-    ngen, "unique Genus names were provided!"
-  ))
+  res[is.na(res)] <- ""
   return(res)
 }
 
@@ -128,23 +162,15 @@ fix_morphotype <- function(
   detailed = FALSE
   ) {
 
-  # check if names were parsed
-  ox <- x
-  sc <- sum(
-    colnames(x) == c(
-      "original_binomial", "original_genus", "original_epi"
-    )
-  )
-  if (sc < 3) {
-    x <- suppressMessages(parse_names(x))
-  }
+  # parse names
+  x <- parse_names(x)
 
-  xe <- x$original_epi
-  xb <- x$original_binomial
+  xe <- x$epi
+  xb <- x$name
 
-  # Check if there is true NA in epithet and convert to character
-  xe[is.na(xe)] <- "NA"
-
+  # Check if there is true blanks in epithet and convert to NA
+  xe[xe == ""] <- "NA"
+  
   wsp <- lapply(pattern, function(x) {
       which(grepl(pattern = x, x = xe, fixed = TRUE))
     })
@@ -167,29 +193,29 @@ fix_morphotype <- function(
 
   if (n_morp == 0) {
     message("No morphotypes were found!")
-    message("Orginal vector is returned back!")
-    out <- ox
+    return(x)
   }
 
   if (n_morp > 0) {
     # Cprrect epithets
-    x$corrected_epi <- x$original_epi
-    x$corrected_binomial <- x$original_binomial
-    x[x$morphotype == "yes", ]$corrected_epi <- label
-    x[x$morphotype == "yes", ]$corrected_binomial <-
-      paste(x[x$morphotype == "yes", ]$original_genus, label)
+    correct_epi <- x$epi
+    correct_epi[x$morphotype == "yes"] <- label
+    x$corrected_name <- white_space(
+      paste(x$genus, correct_epi, x$rank, x$infra)
+    )
+    
 
     if (detailed == TRUE) {
       out <- list(
         x = x,
         morphotypes = data.frame(
-          original_binomial = x[x$morphotype == "yes", ]$original_binomial,
-          corrected_binomial = x[x$morphotype == "yes", ]$corrected_binomial
+          original_name = x[x$morphotype == "yes", ]$name,
+          corrected_name= x[x$morphotype == "yes", ]$corrected_name
         ),
         types_count = t_morp
       )
     } else {
-      out <- x[, c("original_binomial", "corrected_binomial", "morphotype")]
+      out <- x[, c("name", "corrected_name", "morphotype")]
     }
   }
   return(out)

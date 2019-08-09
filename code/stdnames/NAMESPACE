@@ -2,7 +2,13 @@
 
 export(clean_tpl)
 export(fix_morphotype)
+export(fuzzy_genus)
+export(fuzzy_species)
 export(higher_tax)
 export(make_id)
 export(parse_names)
 export(std_names)
+export(tpl_genus)
+export(tpl_genus_check)
+export(tpl_genus_search)
+export(white_space)

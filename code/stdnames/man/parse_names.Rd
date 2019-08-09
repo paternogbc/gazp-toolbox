@@ -7,15 +7,20 @@
 parse_names(x)
 }
 \arguments{
-\item{x}{A character vector specifying the species list, each element including
-genus and specific epithet}
+\item{x}{A character vector specifying a list of plant names, each element
+including at least genus and epithet, but infra ranks (var.) can also be
+provided.}
 }
 \value{
 A data.frame with the following components:
 \itemize{
-\item{\strong{original_binomial}} The original names provided in \code{x}.
+\item{\strong{original_name}} The original names provided in \code{x}.
 \item{\strong{original_genus}} The parsed Genus name extracted from \code{x}.
 \item{\strong{original_epi}} The parsed Epithet name extracted from \code{x}.
+\item{\strong{original_rank}} The parsed infraspecific rank abbreviation
+extracted from \code{x}.
+\item{\strong{original_infra}} The parsed Infraspecific name extracted from
+\code{x}.
 }
 }
 \description{
