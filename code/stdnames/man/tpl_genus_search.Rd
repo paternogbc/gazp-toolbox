@@ -4,7 +4,7 @@
 \alias{tpl_genus_search}
 \title{Check genus}
 \usage{
-tpl_genus_search(genus)
+tpl_genus_search(genus, infra = TRUE)
 }
 \arguments{
 \item{genus}{The name of the genus to search on The Plant List.}

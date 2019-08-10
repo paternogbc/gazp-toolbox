@@ -52,55 +52,6 @@ This function uses the functions: \code{\link{TPL}} and
 \code{\link{TPLck}} from the R package \code{Taxonstand} to perform
 name standardization following The Plant List database.
 }
-\examples{
-\dontrun{
-library(stdnames)
-
-my_data <- species_data
-# Stanardize species names within a comparative dataset
-# First check and fix morphotypes
-# check morphotypes
-mf <- fix_morphotype(x = my_data$species)
-mf[mf$morphotype == "yes", ]
-
-# Replace morphotype names
-my_data$species <- mf$corrected_binomial
-
-# Run protocol to standardize plant names
-out <- std_names(x = my_data, species_column = "species", id_label = "ID")
-
-# Your dataset plus corrected names
-out$std
-
-# Only submitted/corrected names
-out$std_names
-
-# Complete output (with details on name standardization)
-out$tpl_all
-
-# After removing duplicated names
-out$tpl_clean
-
-# A higher taxonomy for the clean species list
-out$taxonomy_clean
-
-# Names that failed to match the plant list
-out$which_fail
-
-# Names that were automatically corrected
-out$which_corrected
-
-# Duplicated names after standardization
-out$which_duplicated
-
-# The complete output from TPL fuzzy matching
-out$raw_tpl_out
-
-# Source data with unique identifiers for each row in the data.frame
-out$source_data
-}
-
-}
 \seealso{
 \code{\link{TPL}} and \code{\link{TPLck}}.
 }

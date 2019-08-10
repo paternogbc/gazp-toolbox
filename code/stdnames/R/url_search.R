@@ -6,6 +6,7 @@
 #' List database. 
 #' @export
 tpl_genus <- function() {
+  message("Downloading list of names...")
   cli <- crul::HttpClient$new("http://www.theplantlist.org/1.1/browse/-/-/")
   temp <- cli$get()
   temp$raise_for_status()
@@ -26,7 +27,8 @@ tpl_genus <- function() {
 #'   from submitted genus name.
 #'   }
 #' @export
-tpl_genus_search <- function(genus) {
+tpl_genus_search <- function(genus, infra = TRUE) {
+  message("Downloading list of names...")
   uur <- paste("http://www.theplantlist.org/tpl1.1/search?q=", genus, sep = "")
   cli <- crul::HttpClient$new(uur)
   temp <- cli$get()
@@ -42,13 +44,22 @@ tpl_genus_search <- function(genus) {
     )
   }
   else {
-    all <- all[seq(1, length(all), 2)]
-    genus <- sapply(strsplit(all, split = " "), FUN = `[`, 1)
-    epithet <- sapply(strsplit(all, split = " "), FUN = `[`, 2)
-    genus_epithet <- paste(genus, epithet)
+    all     <- all[seq(1, length(all), 2)]
+    n1      <- sapply(strsplit(all, split = " "), FUN = `[`, 1)
+    n2      <- sapply(strsplit(all, split = " "), FUN = `[`, 2)
+    n3      <- sapply(strsplit(all, split = " "), FUN = `[`, 3)
+    wn      <- !n3 %in% c("var.", "subsp.", "f.")
+    n3[wn]  <- ""
+    n4      <- sapply(strsplit(all, split = " "), FUN = `[`, 4)
+    n4[wn]  <- ""
+    
+    full_name <- unique(white_space(paste(n1, n2, n3, n4)))
+    if(infra == FALSE){
+      full_name <- unique(white_space(paste(n1, n2)))
+    }
     out <- list(
-      tpl_genus = unique(genus),
-      species_list = genus_epithet
+      tpl_genus = unique(n1),
+      species_list = full_name
     )
   }
   return(out)
