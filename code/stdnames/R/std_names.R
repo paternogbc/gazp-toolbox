@@ -79,7 +79,7 @@ std_names <- function(x, species_column, trait_columns = NULL,
   }
   
   # give then unique ids
-  spn_id        <- make_id(spn, label = id_label)
+  spn_id        <- suppressMessages(make_id(spn, label = id_label))
   s_df$id_names <- spn_id$id_names
   
   # converte species_column to "original_name"
@@ -97,7 +97,8 @@ std_names <- function(x, species_column, trait_columns = NULL,
   # Prepare outputs
   raw_tpl_out   <- merge(s_df, sp.tpl, by = c("id_names"))
   cle_out       <- clean_tpl(raw_tpl_out, verbose = verbose)
-  cle_out$std_all$original_name <- NULL
+  cle_out$std_all$submitted_name <- NULL
+  
   tpl_all       <- merge(s_df[, c("original_name", "id_names", ct)],
                          cle_out$std_all, by = "id_names")
   
@@ -111,7 +112,6 @@ std_names <- function(x, species_column, trait_columns = NULL,
          "Something is really wrong!")
   }
   
-  
   ### Add higher taxonomy
   tax_out   <- higher_tax(as.character(tpl_all$tpl_genus))
   tpl_full  <- merge(tpl_all, 
@@ -120,6 +120,7 @@ std_names <- function(x, species_column, trait_columns = NULL,
                       by.y = "genus",
                       all.x = TRUE)
 
+  
   # Full output-----
   tpl_full <- tpl_full[, c(
     "original_name", "tpl_name", "tpl_genus", "tpl_epithet", "tpl_infra_rank",
@@ -127,6 +128,10 @@ std_names <- function(x, species_column, trait_columns = NULL,
     "tpl_status", "tpl_version",
     "on_tpl", "fail_rank", "corrected", "misapplied", "changed", "duplicated",
     ct)]
+  
+  # sort with original names (ensure the same order of the source DF!)
+  mt_ord <- match(spn, tpl_full$original_name)
+  tpl_full <- tpl_full[mt_ord, ]
   
   # Short output----
   cnf <- c("original_name", "tpl_name", "tpl_genus",
@@ -136,7 +141,7 @@ std_names <- function(x, species_column, trait_columns = NULL,
     )
   tpl_short <- tpl_full[, cnf]
   
-    # Create complete output
+  # Create complete output
     res <- list(
       std_names        = cle_out$std,
       tpl_full         = tpl_full,
@@ -157,5 +162,6 @@ std_names <- function(x, species_column, trait_columns = NULL,
     unmatched_list  = tpl_short[tpl_short$on_tpl == FALSE, ],
     detailed_output = res
     )
+  message("job finished!")
   return(out)
 }
