@@ -42,6 +42,7 @@ std_names <- function(x, species_column, trait_columns = NULL,
   if (!is.data.frame(x)) {
     stop("x must be a data.frame!")
   }
+  
   # get variables
   id_label = "ID_"
   s_df <- x
@@ -51,9 +52,11 @@ std_names <- function(x, species_column, trait_columns = NULL,
   if (is.na(cm)) {
     stop(paste(species_column, "is not a column in the provided data.frame"))
   }
-  if (is.na(match(ct, cn))) {
-    stop(paste(trait_columns, "is not a column in the provided data.frame"))
+  
+  if (any(is.na(match(ct, cn)))) {
+    stop(paste("trait_columns not found in the provided data.frame!"))
   }
+  
   # check for duplicated names
   if (sum(duplicated(x[, species_column]), na.rm = T) > 0) {
     message(

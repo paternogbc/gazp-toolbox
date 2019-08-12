@@ -3,7 +3,7 @@
 #' @param x The output from TPL fuzzy matching.
 #' @param verbose Logical. Print detailed information?
 #'
-#' @return
+#' @return A cleaned and organized output from \link{TPL} search.
 #' @export
 clean_tpl <- function(x, verbose = TRUE) {
   ## Join parsed names
