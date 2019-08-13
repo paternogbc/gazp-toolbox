@@ -3,9 +3,10 @@
 #' @param x The output from TPL fuzzy matching.
 #' @param verbose Logical. Print detailed information?
 #'
-#' @return
+#' @return A cleaned and organized output from \link{TPL} search.
 #' @export
 clean_tpl <- function(x, verbose = TRUE) {
+  message("cleaning output...")
   ## Join parsed names
   tpl_name <- paste(x$New.Genus, x$New.Species)
   winfra <- !is.na(x$New.Infraspecific.rank)
@@ -50,7 +51,7 @@ clean_tpl <- function(x, verbose = TRUE) {
   # Detailed output
   xt <-
     data.frame(
-      original_name      = x$Taxon,
+      submitted_name     = x$Taxon,
       tpl_name           = x$tpl_name,
       tpl_genus          = x$New.Genus,
       tpl_epithet        = x$New.Species,
@@ -74,7 +75,7 @@ clean_tpl <- function(x, verbose = TRUE) {
   if (n_fail > 0) {
     
     # first check for genus that exist even if the name fails
-    gc    <- tpl_genus_check(parse_names(w_fail)$genus)
+    gc    <- suppressMessages(tpl_genus_check(parse_names(w_fail)$genus))
     
     if (FALSE %in% gc$on_tpl) {
       gfail   <- gc[gc$on_tpl != TRUE, ]$genus
@@ -94,14 +95,14 @@ clean_tpl <- function(x, verbose = TRUE) {
   }
   
   if (is.null(x$id_names)) {
-    std <- xt[, c("original_name", "tpl_name")]
+    std <- xt[, c("submitted_name", "tpl_name")]
   } else {
     xt <-
       data.frame(
         id_names = x$id_names, 
         xt
       )
-    std <- xt[, c("original_name", "tpl_name")]
+    std <- xt[, c("submitted_name", "tpl_name")]
   }
   
   
@@ -111,7 +112,7 @@ clean_tpl <- function(x, verbose = TRUE) {
   w_sp_dup <- as.character(xt$tpl_name[dup])
   w_dup    <- xt[x$tpl_name %in% w_sp_dup, ]
   w_dup    <- w_dup[order(w_dup$tpl_name),]
-  w_dup    <- w_dup[, c("original_name", "tpl_name")]
+  w_dup    <- w_dup[, c("submitted_name", "tpl_name")]
   n_dup    <- length(w_sp_dup)
   
   ### add column for duplicated species

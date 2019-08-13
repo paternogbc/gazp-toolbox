@@ -131,7 +131,6 @@ parse_names <- function(x) {
 #' morphotypes.
 #' @param label A character string to replace morphotypes epithet.
 #' @param detailed Logical. If TRUE returns a more detailed output.
-#' @return
 #' @export
 #'
 #' @examples

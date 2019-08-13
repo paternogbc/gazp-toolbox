@@ -11,6 +11,9 @@ clean_tpl(x, verbose = TRUE)
 
 \item{verbose}{Logical. Print detailed information?}
 }
+\value{
+A cleaned and organized output from \link{TPL} search.
+}
 \description{
 Clean and organize the output from TPL fuzzy matching
 }
