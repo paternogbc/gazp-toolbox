@@ -6,7 +6,7 @@ Files containing species traits, collected from the TRY database 7/17/2019. Each
 
 ## Details: try_lifeform
 
-There are multiple sources of formal Raunkiaer categories. The GAZP lifeform categories follow Ellenberg and Mueller-Dombois (1967)[^1]. If single TRY entries had multiple values, we standardized to:
+There are multiple sources of formal Raunkiaer categories. The GAZP lifeform categories follow Ellenberg and Mueller-Dombois (1967)*. If single TRY entries had multiple values, we standardized to:
 : The longer-lived category
 : The terrestrial category
 : Either the category with the most shoot reduction or (if there were three values), the middle reduction category
@@ -27,7 +27,7 @@ There are multiple sources of formal Raunkiaer categories. The GAZP lifeform cat
 | name | if infraspecies designation, infraspecies name based on TPL output |
 | life | Raukiaer lifeform; values of Hemicryptophyte, Phanerophyte, Chamaephyte, Therophyte, Epiphyte, Geophyte, Helophyte,  Hemiphanaerophyte, Hydrophyte, Liana, Macrophanaerophyte, Nanophanaerophyte, Pseudophanaerophyte, Vascular parasite, Vascular semi-parasite |
 
-[^1]Ellenberg, Heinz and D. Mueller-Dombois. "A key to Raunkiaer plant life forms with revised subdivision." <i>Berlin Geobotanical Institute ETH, Stiftung</i> 37 (1967): 56-73.
+*Ellenberg, Heinz and D. Mueller-Dombois. "A key to Raunkiaer plant life forms with revised subdivision." <i>Berlin Geobotanical Institute ETH, Stiftung</i> 37 (1967): 56-73.
 
 *** 
 
