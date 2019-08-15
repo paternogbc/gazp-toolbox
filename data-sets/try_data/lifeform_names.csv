@@ -1,0 +1,143 @@
+original,final
+Chamaephyte,Chamaephyte
+always Chamaephyte,Chamaephyte
+"always Chamaephyte, always Hemicryptophyte",Chamaephyte
+"always Chamaephyte, sometimes Therophyte",Chamaephyte
+"always Chamaephyte, always Hemiphanerophyte",Chamaephyte
+"always Chamaephyte, always Hemicryptophyte, always Hemiphanerophyte",Chamaephyte
+"always Chamaephyte, always Therophyte",Chamaephyte
+"always Chamaephyte, always Geophyte",Chamaephyte
+chamaephyte,Chamaephyte
+Chamaephytes,Chamaephyte
+hemicryptophyte/chamaephyte,Chamaephyte
+therophyte/chamaephyte,Chamaephyte
+hydrophyte/chamaephyte,Chamaephyte
+chamaephyte/phanerophyte,Chamaephyte
+geophyte/chamaephyte,Chamaephyte
+Chamephyte,Chamaephyte
+Chamephyte/Hemicryptophyte,Chamaephyte
+Chamephyte/Therophyte,Chamaephyte
+Ch,Chamaephyte
+CH,Chamaephyte
+Cha,Chamaephyte
+Hydrophyte,Cryptophyte
+always Geophyte,Cryptophyte
+always Hemicryptophyte,Cryptophyte
+cryptophyte,Cryptophyte
+hydrophyte,Cryptophyte
+Epiphyte,Epiphyte
+Ep,Epiphyte
+epiphyte,Epiphyte
+Geophyte,Geophyte
+"always Geophyte, always Hemicryptophyte",Geophyte
+"always Geophyte, always Hydrophyte",Geophyte
+"always Geophyte, sometimes Therophyte",Geophyte
+G,Geophyte
+Geophytes,Geophyte
+geophyte,Geophyte
+hydrophyte/geophyte,Geophyte
+geophyte/hemicryptophyte,Geophyte
+therophyte/geophyte/hemicryptophyte,Geophyte
+therophyte/geophyte,Geophyte
+hydrophyte/geophyte/hemicryptophyte,Geophyte
+Geophyte/Hemicryptophyte,Geophyte
+"Non-bulbous geophyte (rhizome, corm or tuber)",Geophyte
+Bulbous geophyte,geophyte
+G (Hh),geophyte
+G(Hh),geophyte
+Non-bulbous geophyte,Geophyte
+Helophyte,Helophyte
+helophyte,Helophyte
+Hemicryptophyte,Hemicryptophyte
+"always Hemicryptophyte, always Therophyte",Hemicryptophyte
+"always Hemicryptophyte, sometimes Hydrophyte",Hemicryptophyte
+"always Hemicryptophyte, always Hydrophyte",Hemicryptophyte
+"always Hemicryptophyte, sometimes Therophyte",Hemicryptophyte
+"sometimes Geophyte, always Hemicryptophyte",Hemicryptophyte
+"always Chamaephyte, always Geophyte, always Hemicryptophyte",Hemicryptophyte
+"always Geophyte, always Hemicryptophyte, always Hydrophyte",Hemicryptophyte
+"sometimes Chamaephyte, always Hemicryptophyte",Hemicryptophyte
+hemicryptophyte,Hemicryptophyte
+Hemicryptophytes,Hemicryptophyte
+therophyte/hemicryptophyte,Hemicryptophyte
+therophyte/hemicryptophyte/chamaephyte,Hemicryptophyte
+hydrophyte/hemicryptophyte,Hemicryptophyte
+Therophyte/Hemicryptophyte,Hemicryptophyte
+always Hemiphanerophyte,Hemiphanerophyte
+always Hydrophyte,Hydrophyte
+Perennial hydrophyte (perennial water plant),Hydrophyte
+Annual hydrophyte (aquatic therophyte),Hydrophyte
+Perennial hydrophyte,Hydrophyte
+Liana,Liana
+"always Macrophanerophyte, sometimes Nanophanerophyte",Macrophanerophyte
+always Nanophanerophyte,Nanophanerophyte
+5,NULL
+4,NULL
+Np,NULL
+H,NULL
+T,NULL
+n.a.,NULL
+multiple apical growth ponits,NULL
+single basal growth point,NULL
+species that represent single apical or multiple apical,NULL
+7,NULL
+2,NULL
+3,NULL
+8,NULL
+6,NULL
+Hh,NULL
+Ht-H,NULL
+T-Ht,NULL
+Ht,NULL
+H(Ch),NULL
+T-H(Hh),NULL
+H (Hh),NULL
+Ch-H,NULL
+G (H),NULL
+"T, Ht, H",NULL
+PH,NULL
+T-Ch,NULL
+H (Ch),NULL
+T-Th,NULL
+T-H,NULL
+H(G),NULL
+H (G),NULL
+Ht-t,NULL
+H(Hh),NULL
+H-Ch,NULL
+"T, Ht",NULL
+,NULL
+Hz,NULL
+Phanerophyte,Phanerophyte
+always Macrophanerophyte,Phanerophyte
+"always Macrophanerophyte, always Nanophanerophyte",Phanerophyte
+"always Hemicryptophyte, always Hemiphanerophyte",Phanerophyte
+"always Hemiphanerophyte, always Nanophanerophyte",Phanerophyte
+phanerophyte,Phanerophyte
+P,Phanerophyte
+Phanerophytes,Phanerophyte
+hemicryptophyte/phanerophyte,Phanerophyte
+Nanophanerophyt,Phanerophyte
+"Mega-, meso- and microphanerophyte",Phanerophyte
+Nanophanerophyte,Phanerophyte
+1,Phanerophyte
+Ph,Phanerophyte
+Mega- meso- and micro- phanerophyte,Phanerophyte
+Megaphanerophyte,Phanerophyte
+megaphanerophyte,Phanerophyte
+nanophanerophyte,Phanerophyte
+tree,Phanerophyte
+shrub,Phanerophyte
+always Pseudophanerophyte,Pseudophanerophyte
+Therophyte,Therophyte
+therophyte,Therophyte
+always Therophyte,Therophyte
+"questionable Hemicryptophyte, always Therophyte",Therophyte
+"always Hydrophyte, always Therophyte",Therophyte
+"sometimes Hemicryptophyte, always Therophyte",Therophyte
+"always Geophyte, always Therophyte",Therophyte
+Terophytes,Therophyte
+therophyte/hydrophyte,Therophyte
+Therophyte (annual land plant),Therophyte
+Vascular parasite,Vascular parasite
+Vascular semi-parasite,Vascular semi-parasite

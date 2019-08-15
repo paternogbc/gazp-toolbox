@@ -1,0 +1,35 @@
+original,final
+non-woody,non-woody
+h,non-woody
+H,non-woody
+Herbaceous,non-woody
+Grass&Sedges,non-woody
+Herb,non-woody
+non woody,non-woody
+Fibrous,non-woody
+"herb, graminoid",non-woody
+woody rootstock,non-woody
+semi-woody,semi-woody
+Semi-woody,semi-woody
+woody at base,semi-woody
+wood at base,semi-woody
+variable,semi-woody
+Suffrutex,semi-woody
+Variable,semi-woody
+non-woody/woody,semi-woody
+woody/non-woody,semi-woody
+woody/nonwoody,semi-woody
+woody base,semi-woody
+woody,woody
+w,woody
+W,woody
+Woody,woody
+2,NULL
+0,NULL
+3,NULL
+1,NULL
+NA,NULL
+Y,NULL
+0.5,NULL
+1.5,NULL
+nono-woody,NULL

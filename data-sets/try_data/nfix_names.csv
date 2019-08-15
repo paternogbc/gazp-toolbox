@@ -1,0 +1,24 @@
+original,final
+no,no
+NO-N-fixer,no
+No,no
+n,no
+N,no
+"no, not an N fixer",no
+not N2 fixing,no
+yes,yes
+N-FIXER,yes
+Yes,yes
+y,yes
+Y,yes
+"yes, an N fixer",yes
+Medium,yes
+High,yes
+Low,yes
+N2 fixing,yes
+TRUE,yes
+2,NULL
+0,NULL
+1,NULL
+NA,NULL
+N2 fixing?,NULL
