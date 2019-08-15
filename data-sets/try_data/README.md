@@ -7,9 +7,9 @@ Files containing species traits, collected from the TRY database 7/17/2019. Each
 ## Details: try_lifeform
 
 There are multiple sources of formal Raunkiaer categories. The GAZP lifeform categories follow Ellenberg and Mueller-Dombois (1967)*. If single TRY entries had multiple values, we standardized to:
-: The longer-lived category
-: The terrestrial category
-: Either the category with the most shoot reduction or (if there were three values), the middle reduction category
+> The longer-lived category
+> The terrestrial category
+> Either the category with the most shoot reduction or (if there were three values), the middle reduction category
 
 ### Variables
 
@@ -135,7 +135,7 @@ List of original values for TRY photosynthetic pathway data and final designatio
 
 ## Details: try_woodiness
 
-TRY data had multiple versions of each variable that were all standardized. If multiple values within single cell, standardized to the most woody value listed.
+TRY data had multiple versions of each variable that were all standardized. If multiple values within single cell, standardized to semi-woody.
 
 ### Variables
 
