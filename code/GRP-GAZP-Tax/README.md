@@ -14,7 +14,7 @@ Taxonomic protocol workflow to process species names and match to trait values
 | :---: | :---: | :--- |  
 | [species_input_functions.R](R/species_input_functions.R) | R functions | code_creation and all functions for traits processing |  
 | [species_names_processing.R](R/species_names_processing.R) | Workflow | Taxonomic protocol that speaks to input functions |  
-| [species_trait_creation.R](R/species_trait creation.R) | Workflow | Trait matching protocol that speaks to input functions |  
+| [species_trait_creation.R](R/species_trait_creation.R) | Workflow | Trait matching protocol that speaks to input functions |  
 | [seeded_species.R](R/seeded_species.R) | Workflow | Takes unique speciesid from seeded species list and matches to master species list to produce a 'seeded species' list |  
 
 
