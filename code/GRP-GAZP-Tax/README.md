@@ -13,11 +13,8 @@ Taxonomic protocol workflow to process species names and match to trait values
 | file | type | description |  
 | :---: | :---: | :--- |  
 | [species_input_functions.R](R/species_input_functions.R) | R functions | code_creation and all functions for traits processing |  
-| :---: | :---: | :--- | 
 | [species_names_processing.R](R/species_names_processing.R) | Workflow | Taxonomic protocol that speaks to input functions |  
-| :---: | :---: | :--- | 
 | [species_trait_creation.R](R/species_trait creation.R) | Workflow | Trait matching protocol that speaks to input functions |  
-| :---: | :---: | :--- | 
 | [seeded_species.R](R/seeded_species.R) | Workflow | Takes unique speciesid from seeded species list and matches to master species list to produce a 'seeded species' list |  
 
 
@@ -40,9 +37,7 @@ The outputs here are collaborative species lists between GAZP & GRP. Using this 
 | file | location | description |  
 | :---: | :---: | :--- |  
 | species_names_list.xlsx| GAZP_Database Repository | Master Species List : including all known synonyms |  
-| :---: | :---: | :--- | 
 | species_long_traits.xlsx | GAZP_Database Respository | A longform species list: including accepted species names only, all associated higher taxonomic information & traits data |  
-| :---: | :---: | :--- | 
 | seeded_species.xlsx | GAZP_Database Respository | A list of species seeded within GAZP (& eventually GRP), to seperate these species from vegetation community data | 
 
 ## Room for Improvement / To-Do List
