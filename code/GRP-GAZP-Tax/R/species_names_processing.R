@@ -318,7 +318,7 @@ nrow(in_sp_final) # corrected species list
 # are these row numbers the same? if not, why not?
 
 # all clean? write the file!
-ext <- "./data-sets/example/" # test location
+ext <- "./data-sets/example/out/" # test location
 write.csv(in_sp_final, paste(ext, "GRP_19_Processed_species_codes.csv",
                        sep = ""), row.names = FALSE)
 
@@ -377,7 +377,7 @@ nrow(updated_gazp)
 head(updated_gazp)
 
 
-ext <- "./data-sets/example/" # change the last folder name for every new dataset
+ext <- "./data-sets/example/out/" # change the last folder name for every new dataset
 write.csv(updated_gazp, paste(ext, "species_names_list_example.csv",
                        sep = ""), row.names = FALSE)
 
