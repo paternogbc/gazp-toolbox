@@ -24,7 +24,7 @@ library(openxlsx)
 library(stdnames) 
 
 # load functions needed
-source("./grp_species_input_functions.R")
+source("./code/GRP-GAZP-Tax/R/grp_species_input_functions.R")
 
 
 ### Step 1: Bring in ist of new species produced in "species_names_processing.R"
@@ -33,7 +33,7 @@ source("./grp_species_input_functions.R")
 #new_sps <- read.csv(file.choose())
 
 #
-ext <- "./data-sets/example/" # change the last folder name for every new dataset
+ext <- "./data-sets/example/out/" # change the last folder name for every new dataset
 new_sps <- read.csv(paste(ext, "GRP_19_new_t.csv", sep = "")) 
 
 
@@ -53,7 +53,7 @@ head(new_sps, n=10)
 # make sure this is the most recently updated version of the species_names_list (ie that you just updated with this species list)
 # or else it wont work.
 # Emma's path
-gazp <- read.xlsx("~/Desktop/Academic/R code/GAZP_Database/species_names_list_t.xlsx")
+gazp <- read.xlsx("./data-sets/example/species_names_list_example.xlsx")
 # Nancy's path
 
 # Clara's path
@@ -73,7 +73,7 @@ seed <- read.csv("./data-sets/try/sid_correction.csv")
 
 # GAZP Database species file as template
 # Emma's path
-gazp_traits <- read.xlsx("~/Desktop/Academic/R code/GAZP_Database/species_long_traits.xlsx")
+gazp_traits <- read.xlsx("./data-sets/example/species_long_traits_example.xlsx")
 
 # Nancy's path
 
@@ -151,7 +151,7 @@ nrow(new_traits)
 
 
 # test write
-ext <- "./data-sets/example/" # change the last folder name for every new dataset
+ext <- "./data-sets/example/out/" # change the last folder name for every new dataset
 write.csv(new_traits, paste(ext, "GRP_19_new_traits.csv",
                               sep = ""), row.names = FALSE)
 
@@ -172,8 +172,8 @@ nrow(gazp_traits)
 nrow(new_list)
 
 # Test write
-ext <- "./data-sets/example/" # change the last folder name for every new dataset
-write.xlsx(new_list, paste(ext, "species_long_traits.xlsx",
+ext <- "./data-sets/example/out/" # change the last folder name for every new dataset
+write.xlsx(new_list, paste(ext, "species_long_traits_example.xlsx",
                             sep = ""), row.names = FALSE)
 
 

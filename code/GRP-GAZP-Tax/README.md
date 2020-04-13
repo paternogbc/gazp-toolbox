@@ -24,7 +24,7 @@ This workflow should be used to process the species list from every study sepera
 
 The Taxonomic protocol will highlight conflicts in species names and summarise them in a table in Step 6, towards ther end of the workflow. The conflicetd species names need to be changed manually. Code is provided so that corrections can just filled into the code. Instead of deleteing this lines when not relevant , just use a '#' at the beginning of the line of code to comment that line out, but maintain the lines of code for future use.
 
-The trait matching protocol will record multiple records where they exist. This should be corrected manually after. Since GRP currently does not have a traits paper planned, we will not be correcting these for our species now. Given this, if you want to keep the GAZP species-traits list and GRP species-trait list seperate, code is provided to choose that option, with notes.
+The trait matching protocol will record multiple records where they exist. This should be corrected manually after. 
 
 Wherever a file path needs to be manually changed, please just copy the path link, correct to your own path with a label and list in below the others so they do not have to be rewritten every time. 
 
