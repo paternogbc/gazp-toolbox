@@ -6,7 +6,7 @@ Functions and code to process species names for GAZP & GRP.
 
 ## Details
 
-![](static/dichanthium.jpg)
+![](static/dicanthium.jpg)
 
 Taxonomic protocol workflow to process species names and match to trait values
 
