@@ -20,6 +20,8 @@ Taxonomic protocol workflow to process species names and match to trait values
 
 ## Usage
 
+> If you are updating the official species list, make sure to Pull from the GAZP_Database Github Repository before beginning. Follow the 'Important Pre-Steps' at the beginning of 'species_names_processing.R' and closing steps at the end of 'species_trait_creation.R' 
+
 This workflow should be used to process the species list from every study seperately. Working directories should be changed to match each appropriate working directory. 
 
 The Taxonomic protocol will highlight conflicts in species names and summarise them in a table in Step 6, towards ther end of the workflow. The conflicetd species names need to be changed manually. Code is provided so that corrections can just filled into the code. Instead of deleteing this lines when not relevant , just use a '#' at the beginning of the line of code to comment that line out, but maintain the lines of code for future use.
